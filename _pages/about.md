@@ -7,8 +7,34 @@ redirect_from:
   - /about.html
 ---
 
-This is the In my current role as a **Lecturer** (Teaching Specialist - Level B i.e., equivalent to Assistant Professor in North American System) at the [school of computing and information systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia, I am involved in teaching, curriculum development, lecturing, subject coordination, tutoring, exam preparation, marking, and research activities for software engineering and programming units. Furthermore, I hold the Professional Scrum Master I (PSM-I) certification, demonstrating my commitment to continuous learning and staying abreast of industry best practices.
+In my current role as a **Lecturer** (Teaching Specialist - Level B i.e., equivalent to Assistant Professor in North American System) at the [school of computing and information systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia, I am involved in teaching, curriculum development, lecturing, subject coordination, tutoring, exam preparation, marking, and research activities for software engineering and programming units. Furthermore, I hold the Professional Scrum Master I (PSM-I) certification, demonstrating my commitment to continuous learning and staying abreast of industry best practices.
 
-Throughout my academic career, I have held a variety of teaching positions across prestigious universities in Australia. I worked as a Sessional Lecturer and Teaching Academic at the [Faculty of Information Technology](https://www.monash.edu/it) at Monash University, Australia. I also worked as a part time TAFE instructor at Department of Cybersecurity and Digital Technologies [Victoria University](https://www.vu.edu.au/study-at-vu/tafe), where I taught Certificate IV in Cyber Security and IT using a block teaching model. I have also had the opportunity to collaborate with staff members at Swinburne, RMIT, and Deakin University in running units, marking assessments and examinations. Earlier in my career, I gained experience as a unit assessor and casual lecturer for business and programming units at Southern Cross University and Federation University Australia, respectively.
+# Education
 
-My educational background includes a Doctorate degree in Software Engineering from the [School of Software](https://ssdut.dlut.edu.cn/en.htm) at Dalian University of Technology, China. Under the guidance of [Professor He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index.htm), my PhD thesis focused on the generation of automatic summaries for bug reports and source code fragments using machine learning, data mining, information retrieval, and natural language processing methods, tools, and technologies. Prior to that, I completed a Master's in Information Technology with a specialisation in Software Engineering from the [Department of Computer Science and Engineering](https://www.chalmers.se/en/departments/cse/) at Chalmers University of Technology, Sweden. My master's thesis explored into various SEO techniques for Web 2.0 websites while working at Euroway Media AB (now defunct).
+- PhD in Software Engineering, 2011- 2016, [Dalian University of Technology]((https://ssdut.dlut.edu.cn/en.htm)), CHINA. (Supervisor: [Prof He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index.htm))
+- MSc in Software Engineering. 2007 - 2010, [Chalmers University of Technology](https://www.chalmers.se/en/departments/cse/), SWEDEN.
+- BSc (Hons) in Computer Science, 2001 - 2005, University of the Punjab, PAKISTAN.
+
+# Research
+
+I have a broad range of interests in software engineering. In particular, I am interested in:
+
+ - Mining Software Repositories (MSR)
+ - Empirical Software Engineering
+ - Software Testing
+ - Education in Information Technology (Especially in SE)
+
+# Experience
+
+I have lectured, tutored and demonstrated a wide variety of Software Engineering, Programming and Business in IT units. Here is the list of the positions, I have worked in so far since 2017.
+- **Jun 2023 - Present:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
+- **Feb 2023 - Dec 2023:** Lecturer - TAFE (Part Time) @ Victoria University, Australia
+- **Feb 2023 - Jun 2023:** Lecturer (Full Time) @ Victorian Institute of Technology, Australia.
+- **Feb 2017 - Feb 2023:** Lecturer and Teaching Associate @ Monash University, Australia.
+- **Jun 2019 - Dec 2022:** Admin Teaching Associate @ The University of Melbourne, Australia
+- **Feb 2022 - Jun 2022:** Tutor @ Deakin University Australia.
+- **Feb 2019 - Jun 2022:** Tutor @ Swinburne University of Technology, Australia.
+- **Feb 2020 - Oct 2023:** CS Sessional: Cloud, System and Security @ RMIT University, Australia.
+- **Jul 2018- Jul 2019:** Lecturer and Unit Assessor @ The Southern Cross University, Australia.
+- **Jul 2018 - Dec 2018:** Instructor @ Victorian Institute of Technology, Australia.
+- **Feb 2017 - Dec 2017:** Casual Lecturer @ Melbourne Institute of Technology, Australia.
