@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-In my current role as a **Lecturer** (Teaching Specialist - Level B i.e., equivalent to Assistant Professor in North American System) at the [school of computing and information systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia, I am involved in teaching, curriculum development, lecturing, subject coordination, tutoring, exam preparation, marking, and research activities for software engineering and programming units. Furthermore, I hold the Professional Scrum Master I (PSM-I) certification, demonstrating my commitment to continuous learning and staying abreast of industry best practices.
+In my current role as a **Lecturer** (Education Specialist - Level B i.e., equivalent to Assistant Professor in North American System) at the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) Adelaide University, I am developing learning material for data scinece displine. In my previous role as a **Lecturer** (Teaching Specialist - Level B i.e., equivalent to Assistant Professor in North American System) at the [school of computing and information systems](https://cis.unimelb.edu.au/) at University of Melbourne, Australia, I was involved in teaching, curriculum development, lecturing, subject coordination, tutoring, exam preparation, marking, and research activities for software engineering and programming units. Furthermore, I hold the Professional Scrum Master I (PSM-I) certification, demonstrating my commitment to continuous learning and staying abreast of industry best practices. I had also worked at Monash University and Victoria University Australia.
 
 # Education
 
@@ -27,7 +27,8 @@ I have a broad range of interests in software engineering. In particular, I am i
 # Experience
 
 I have lectured, tutored and demonstrated a wide variety of Software Engineering, Programming and Business in IT units. Here is the list of the positions, I have worked in so far since 2017.
-- **Jun 2023 - Present:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
+- **Oct 2024 - Present:** Lecturer (Education Specialist) @ The University of Adelaide, Australia.
+- **Jun 2023 - Jul 2024:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
 - **Feb 2023 - Dec 2023:** Lecturer - TAFE (Part Time) @ Victoria University, Australia
 - **Feb 2023 - Jun 2023:** Lecturer (Full Time) @ Victorian Institute of Technology, Australia.
 - **Feb 2017 - Feb 2023:** Lecturer and Teaching Associate @ Monash University, Australia.
