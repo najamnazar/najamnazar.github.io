@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-In my current role as a **Lecturer** (Education Specialist - Level B i.e., equivalent to Assistant Professor in North American System) at the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) Adelaide University, I am developing learning material for data science displine. In my previous role as a **Lecturer** (Teaching Specialist) at the [school of computing and information systems](https://cis.unimelb.edu.au/) University of Melbourne, Australia, I was involved in teaching, curriculum development, lecturing, subject coordination, tutoring, exam preparation, marking, and research activities for software engineering and programming units. Furthermore, I hold the Professional Scrum Master I (PSM-I) certification, demonstrating my commitment to continuous learning and staying abreast of industry best practices. I had also worked at Monash University and Victoria University Australia.
+
+In my current role as a **Lecturer (Education Specialist - Level B, equivalent to Assistant Professor in the North American System)** at the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide, I am engaged in reviewing and enhancing course materials in the Data Science discipline. Previously, as a **Lecturer (Teaching Specialist)** at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at the University of Melbourne, I contributed to curriculum development, subject coordination, lecturing, tutoring, exam preparation, marking, and research within Software Engineering and Programming courses. I hold a **Professional Scrum Master I (PSM-I)** certification, reflecting my dedication to continuous professional development and adherence to industry best practices. I also bring extensive teaching experience from over six years as a sessional lecturer at [Monash University](https://www.monash.edu/it) and as a TAFE instructor at [Victoria University](https://www.vu.edu.au/study-at-vu/tafe) Australia. My research interests lie in Software Engineering and Generative AI.
 
 # Education
 
@@ -26,7 +27,7 @@ I have a broad range of interests in software engineering. In particular, I am i
 
 # Experience
 
-I have lectured, tutored and demonstrated a wide variety of Software Engineering, Programming and Business in IT units. Here is the list of the positions, I have worked in so far since 2017.
+Since 2017, I have lectured, tutored, and demonstrated a diverse range of units in Software Engineering, Programming, and Business in IT. Additionally, I bring experience as a learning developer in Data Science, where I focus on designing and implementing engaging, learning intensive courses. Below is a list of the course, I have taught across these areas:
 - **Oct 2024 - Present:** Lecturer (Education Specialist) @ The University of Adelaide, Australia.
 - **Jun 2023 - Jul 2024:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
 - **Feb 2023 - Dec 2023:** Lecturer - TAFE (Part Time) @ Victoria University, Australia
