@@ -7,26 +7,21 @@ redirect_from:
   - /about.html
 ---
 
-In my current (remote) role as a **Lecturer (Education Specialist - Level B, equivalent to Assistant Professor in the North American System)** at the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide, I am engaged in reviewing and enhancing course materials in the Data Science discipline. Previously, as a **Lecturer (Teaching Specialist)** at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at the University of Melbourne, I contributed to curriculum development, subject coordination, lecturing, tutoring, exam preparation, marking, and research within Software Engineering and Programming courses. I hold a **Professional Scrum Master I (PSM-I)** certification, reflecting my dedication to continuous professional development and adherence to industry best practices. I also bring extensive teaching experience from over six years as a sessional lecturer at [Monash University](https://www.monash.edu/it) and as a TAFE instructor at [Victoria University](https://www.vu.edu.au/study-at-vu/tafe) Australia. My research interests lie in Software Engineering and Generative AI.
+I am currently appointed as a **Lecturer (Education Specialist - Level B, equivalent to Assistant Professor in the North American System)** in the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide. In this remote role, I am responsible for reviewing and refreshing the course materials within the Data Science discipline.
+
+Prior to this, I served as a **Lecturer (Teaching Specialist)** at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at the University of Melbourne, where I contributed to curriculum development, subject coordination and delivery of lecturing and tutoring. The academic duties also included assessment and exam design and marking and self directed research in Software Engineering. Further before, I worked as a Teaching Academic and Sessional Lecturer at [Monash University](https://www.monash.edu/it) and as a TAFE instructor at [Victoria University](https://www.vu.edu.au/study-at-vu/tafe) Australia.
+
+In addition I hold a **Professional Scrum Master I (PSM-I)** certification, demonstrating a commitment to professional development and the application of industry best practices in education. My research interests focus on **Mining Software Repositories (MSR)**, **Articial Intelligence**, **Machine Learning**, **Natural Lnaguage Processing** and **Computer Science Education**.
 
 # Education
 
 - PhD in Software Engineering, 2011- 2016, [Dalian University of Technology]((https://ssdut.dlut.edu.cn/en.htm)), CHINA. (Supervisor: [Prof He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index.htm))
 - MSc in Software Engineering. 2007 - 2010, [Chalmers University of Technology](https://www.chalmers.se/en/departments/cse/), SWEDEN.
-- BSc (Hons) in Computer Science, 2001 - 2005, University of the Punjab, PAKISTAN.
-
-# Research
-
-I have a broad range of interests in software engineering. In particular, I am interested in:
-
- - Mining Software Repositories (MSR)
- - Empirical Software Engineering
- - Software Testing
- - Education in Information Technology (Especially in SE)
+- BSc (Hons) in Computer Science, 2001 - 2005, [University of the Punjab](https://pucit.edu.pk/), PAKISTAN.
 
 # Experience
 
-Since 2017, I have lectured, tutored, and demonstrated a diverse range of units in Software Engineering, Programming, and Business in IT. Additionally, I bring experience as a learning developer in Data Science, where I focus on designing and implementing engaging, learning intensive courses. Below is a list of the course, I have taught across these areas:
+Below is a list of appointments in ahronological order:
 - **Oct 2024 - Present:** Lecturer (Education Specialist) @ The University of Adelaide, Australia.
 - **Jun 2023 - Jul 2024:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
 - **Feb 2023 - Dec 2023:** Lecturer - TAFE (Part Time) @ Victoria University, Australia
