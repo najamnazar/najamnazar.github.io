@@ -21,7 +21,7 @@ In addition I hold a **Professional Scrum Master I (PSM-I)** certification, demo
 
 # Experience
 
-Below is a list of appointments in ahronological order:
+Below is a list of appointments in chronological order:
 - **Oct 2024 - Present:** Lecturer (Education Specialist) @ The University of Adelaide, Australia.
 - **Jun 2023 - Jul 2024:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
 - **Feb 2023 - Dec 2023:** Lecturer - TAFE (Part Time) @ Victoria University, Australia
