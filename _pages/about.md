@@ -11,7 +11,7 @@ I am currently appointed as a **Lecturer (Education Specialist - Level B, equiva
 
 Prior to this, I served as a **Lecturer (Teaching Specialist)** at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at the University of Melbourne, where I contributed to curriculum development, subject coordination and delivery of lecturing and tutoring. The academic duties also included assessment and exam design and marking and self directed research in Software Engineering. Further before, I worked as a Teaching Academic and Sessional Lecturer at [Monash University](https://www.monash.edu/it) and as a TAFE instructor at [Victoria University](https://www.vu.edu.au/study-at-vu/tafe) Australia.
 
-In addition I hold a **Professional Scrum Master I (PSM-I)** certification, demonstrating a commitment to professional development and the application of industry best practices in education. My research interests focus on **Mining Software Repositories (MSR)**, **Articial Intelligence**, **Machine Learning**, **Natural Lnaguage Processing** and **Computer Science Education**.
+In addition I hold a **Professional Scrum Master I (PSM-I)** certification, demonstrating a commitment to professional development and the application of industry best practices in education. My research interests focus on **Mining Software Repositories (MSR)**, **Articial Intelligence**, **Machine Learning**, **Natural Language Processing (NLP)** and **Computer Science Education**.
 
 # Education
 
