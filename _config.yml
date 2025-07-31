@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Najam Nazar - PhD - The University of Adelaide"
+title                    : "Najam Nazar - PhD - Monash University | Adelaide University"
 title_separator          : "-"
 name                     : &name "Najam Nazar"
 description              : &description "Senior Lecturer (Assoc Prof) Software Engineering | Data Science | AI"
