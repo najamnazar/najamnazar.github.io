@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I have recently joined Monash University’s Suzhou campus as a **Senior Lecturer (Level C)** in Software Engineering and Artificial Intelligence — equivalent to an Associate Professor in the North American academic system. In addition, I hold a concurrent appointment as a **Lecturer (Education Specialist - Level B)** in the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide. In this remote role, I am responsible for reviewing and updating course materials within the Data Science discipline.
+I have recently joined Monash University’s [Faculty of IT](https://www.monash.edu/it) as a **Senior Lecturer (Level C)** in Software Engineering and Artificial Intelligence — equivalent to an Associate Professor in the North American academic system. In addition, I hold a concurrent fixed term appointment as a **Lecturer (Education Specialist - Level B)** in the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide. In this remote role, I am responsible for reviewing and updating course materials within the Data Science discipline.
 
 Previously, I served as an [Assistant Professor](https://www.ada.edu.az/en/schools/site/members/faculty/374-najam-nazar) in Software Engineering at the [School of IT and Engineering (SITE)](https://www.ada.edu.az/en/schools/site), ADA University, Azerbaijan, where I taught software engineering courses. Prior to that, I was a **Lecturer (Teaching Specialist)** at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at the University of Melbourne, where I contributed to curriculum development, subject coordination, and the delivery of lectures and tutorials. My responsibilities also included assessment and exam design, marking, and conducting self-directed research in Software Engineering.
 
@@ -26,7 +26,7 @@ My research interests focus on **Mining Software Repositories (MSR)**, **Artific
 # Experience
 
 Below is a list of appointments in chronological order:
-- **Jul 2025 - Present:** Senior Lecturer @ Monash University Suzhou.
+- **Jul 2025 - Present:** Senior Lecturer (Adjunct) @ Monash University, Australia.
 - **Oct 2024 - Present:** Lecturer (Education Specialist) @ The University of Adelaide, Australia.
 - **Aug 2024 - Jul 2025:** Assistant Professor @ ADA University, Azerbaijan.
 - **Jun 2023 - Jul 2024:** Lecturer (Teaching Specialist) @ The University of Melbourne, Australia.
