@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Najam Nazar - PhD - Monash University | Adelaide University"
+title                    : "Najam Nazar - PhD - Adelaide University"
 title_separator          : "-"
 name                     : &name "Najam Nazar"
 description              : &description "Senior Lecturer (Assoc Prof) Software Engineering | Data Science | AI"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile_nn.jpg"
   name             : "Najam Nazar"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineering | Data Science | AI | Professional Scrum Master - I"
+  bio              : "Software Engineering | Data Science | AI | SME | PSM - I"
   location         : "Melbourne Australia"
   employer         : "Monash University"
   uri              : # URL
