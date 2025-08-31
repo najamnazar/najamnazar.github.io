@@ -2,7 +2,7 @@
 title: "PRST"
 excerpt: "A PageRank based Summarization Technique for Summarizing Bug Reports with Duplicates."
 collection: portfolio
-date: 2017-08-30
+date: 2017-01-30
 image: /images/crawler.png
 ---
 #  **PRST: A PageRank based Summarization Technique for Summarizing Bug Reports with Duplicates**

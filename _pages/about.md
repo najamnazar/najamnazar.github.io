@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
- I hold a fixed term appointment as a **Lecturer (Education Specialist - Level B)** in the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide. In this remote role, as a subject matter expert, I am responsible for reviewing and updating course materials within the Data Science, cyber secuity and programming disciplines.
+ I hold a fixed term appointment as a **Lecturer (Education Specialist - Level B)** in the [School of Computer and Mathematical Sciences](https://set.adelaide.edu.au/computer-and-mathematical-sciences/) at the University of Adelaide. In this remote role, as a **subject matter expert**, I am responsible for reviewing and updating course materials within the Data Science, cyber secuity and programming disciplines.
 
 Previously, I served as an [Assistant Professor](https://www.ada.edu.az/en/schools/site/members/faculty/374-najam-nazar) in Software Engineering at the [School of IT and Engineering (SITE)](https://www.ada.edu.az/en/schools/site), ADA University, Azerbaijan, where I taught software engineering courses. Prior to that, I was a **Lecturer (Teaching Specialist)** at the [School of Computing and Information Systems](https://cis.unimelb.edu.au/) at the University of Melbourne, where I contributed to curriculum development, subject coordination, and the delivery of lectures and tutorials. My responsibilities also included assessment and exam design, marking, and conducting self-directed research in Software Engineering.
 
