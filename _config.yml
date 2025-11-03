@@ -8,10 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
+site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Najam Nazar - PhD - Adelaide University"
 title_separator          : "-"
 name                     : &name "Najam Nazar"
-description              : &description "Senior Lecturer (Assoc Prof) Software Engineering | Data Science | AI"
+description              : &description "Lecturer (Assistant Professor) Software Engineering | Data Science | AI"
 url                      : https://najamnazar.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "najamnazar/najamnazar.github.io"

@@ -15,6 +15,10 @@
 @import "mixins";
 @import "vendor/susy/susy";
 
+// Theme imports
+@import "theme/default_light";
+@import "theme/default_dark";
+
 @import "reset";
 @import "base";
 
