@@ -22,12 +22,12 @@ repository               : "najamnazar/najamnazar.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_nn.jpg"
+  avatar           : "profile_nn1.jpeg"
   name             : "Najam Nazar"
   pronouns         : # example: "she/her"  
-  bio              : "Software Engineering | Data Science | AI | SME | PSM - I"
-  location         : "Melbourne Australia"
-  employer         : "Adelaide University"
+  bio              : "PhD • Software Engineering Educator • AI4SE Researcher • PSM-I"
+  location         : "Adelaide, Australia"
+  employer         : "University of Adelaide"
   uri              : # URL
   email            : "najam.nazar@adelaide.edu.au" 
 
@@ -58,15 +58,15 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : # Username - RECOMMENDED: Add your LinkedIn profile for professional networking
   mastodon         : # URL
-  medium           : # URL
+  medium           : # URL - Consider adding if you write technical articles
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : # Username for X / Twitter - RECOMMENDED: Add for academic community engagement
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -282,7 +282,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
