@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Najam Nazar - PhD - Adelaide University"
+title                    : "Najam Nazar - PhD"
 title_separator          : "-"
 name                     : &name "Najam Nazar"
 description              : &description "Lecturer (Assistant Professor) Software Engineering | Data Science | AI"
@@ -26,7 +26,7 @@ author:
   name             : "Najam Nazar"
   pronouns         : # example: "she/her"  
   bio              : "PhD • Software Engineering Educator • AI4SE Researcher • PSM-I"
-  location         : "Adelaide, Australia"
+  location         : "Melbourne, Australia"
   employer         : "University of Adelaide"
   uri              : # URL
   email            : "najam.nazar@adelaide.edu.au" 
