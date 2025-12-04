@@ -19,8 +19,8 @@ author_profile: true
 
 **[J8]** N. Nazar, S. Sikka, C. Treude  
 **Summarising Design Patterns using Code Features**  
-*arXiv Pre-Print* (Under Review for Journal Publication)  
-<span style="color: #666;">Status: Under Review</span>
+*Empirical Software Engineering Journal*  
+<span style="color: #666;">Status: Accepted for Publication (2025)</span>
 
 ---
 
