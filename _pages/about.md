@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate educator and researcher specializing in Software Engineering with over **8 years of teaching and research experience** across leading universities in Australia, Europe, and Asia. Currently, I serve as a **Lecturer (Education Specialist - Level B)** at the [University of Adelaide](https://set.adelaide.edu.au/computer-and-mathematical-sciences/), where I shape the future of Software Engineering, Data Science, Cybersecurity, and Programming education.
+I am a passionate educator and researcher specialising in Software Engineering with over **8 years of teaching and research experience** across leading universities in Australia, Europe, and Asia. Currently, I have an adjunct affiliation with the [Department of Software Systems and Cyber Security (SSC)](https://www.monash.edu/it/ssc), [Faculty of Information Technology (FIT)](https://www.monash.edu/it), Monash University, Australia, where I **supervise Master’s and PhD students** and conduct **independent as well as collaborative research** in MSR and AI4SE. Previously, I serve as a **Lecturer (Education Specialist - Level B)** at the [University of Adelaide](https://set.adelaide.edu.au/computer-and-mathematical-sciences/), where I lead the review and refresh of course materials, ensuring cutting‑edge curriculum delivery across Software Engineering, Data Science, and Cybersecurity disciplines.
 
 My unique blend of academic excellence and industry certification (**Professional Scrum Master I**) enables me to bridge theoretical knowledge with practical industry needs, preparing students for real world challenges.
 
@@ -16,10 +16,10 @@ My unique blend of academic excellence and industry certification (**Professiona
 > ## 🎓 PhD Supervision Available
 > 
 > **I am currently accepting PhD students** in the following research areas:
-> - 🔍 **Mining Software Repositories (MSR)**
-> - 🤖 **AI-Driven Software Engineering** (AI for SE / SE for AI)
-> - 🧠 **Machine Learning & Natural Language Processing** for Software Engineering
-> - 📊 **Empirical Software Engineering**
+> - **Mining Software Repositories (MSR)**
+> - **AI-Driven Software Engineering** (AI for SE / SE for AI)
+> - **Machine Learning & Natural Language Processing** for Software Engineering
+> - **Empirical Software Engineering**
 > 
 > If you're interested in pursuing a PhD under my supervision, please contact me with your CV and research interests.
 
@@ -29,13 +29,10 @@ My unique blend of academic excellence and industry certification (**Professiona
 ---
 
 **Research Areas:**
-- 🔍 Mining Software Repositories (MSR)
-- 🤖 AI Driven Software Engineering (aka. AI4SE)
-- 🧠 Machine Learning & Natural Language Processing
-- 📚 Computer Science Education
-
-**Current Role:**
-As a **Subject Matter Expert (SME)** at the University of Adelaide, I lead the review and enhancement of course materials, ensuring cutting edge curriculum delivery in software engineering, Data Science and Cybersecurity disciplines.
+- Mining Software Repositories (MSR)
+- AI Driven/Infused Software Engineering (aka. AI4SE & SE4AI)
+- Machine Learning & Natural Language Processing
+- Computer Science Education
 
 ---
 
@@ -53,24 +50,24 @@ _Supervisor: [Prof. He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index.htm)_
 
 ---
 
-## 💼 Professional Experience
+## Professional Experience
 
 ### Fixed Term Positions
 
-**🎓 Lecturer (Education Specialist - Level B) - REMOTE POSITION** | _Oct 2024 - Present_  
-University of Adelaide, Australia
+**Lecturer (Education Specialist - Level B) - REMOTE POSITION** | _Oct 2024 - Dec 2025_  
+<img src="/images/logo-adelaide.svg" alt="University of Adelaide" style="height:24px; vertical-align:middle; margin-right:6px;" /> Adelaide University, Australia
 - Subject Matter Expert for Software Engineering, Data Science & Cybersecurity
 - Curriculum development and alignment, quality assurance and assessment design
 - AI enhanced learning developing
 - Self directed research in AI for Software Engineering
 
-**👨‍🏫 Assistant Professor** | _Aug 2024 - Jul 2025_  
-ADA University, Azerbaijan
+**Assistant Professor** | _Aug 2024 - Jul 2025_  
+<img src="/images/logo-ada.png" alt="ADA University" style="height:24px; vertical-align:middle; margin-right:6px;" /> ADA University, Azerbaijan
 - Teaching software engineering courses
 - Research supervision and mentorship
 
-**📖 Lecturer (Teaching Specialist)** | _Jun 2023 - Jul 2024_  
-University of Melbourne, Australia
+**Lecturer (Teaching Specialist - Level B)** | _Jun 2023 - Jul 2024_  
+<img src="/images/logo-melb.svg" alt="University of Melbourne" style="height:24px; vertical-align:middle; margin-right:6px;" /> University of Melbourne, Australia
 - Subject coordination and lecture delivery
 - Curriculum development and assessment design
 - Self directed research in Software Engineering
@@ -86,22 +83,6 @@ University of Melbourne, Australia
 - **Southern Cross University** - Lecturer and Unit Assessor (Jul 2018 - Jul 2019)
 - **Victorian Institute of Technology** - Lecturer (Multiple appointments)
 - **Melbourne Institute of Technology** - Casual Lecturer (Feb 2017 - Dec 2017)
-
----
-
-## 🏆 Professional Certifications
-
-- **Professional Scrum Master I (PSM-I)** - Demonstrating commitment to agile methodologies and industry best practices
-
----
-
-## 🌟 Teaching Philosophy
-
-I believe in creating engaging, industry relevant learning experiences that empower students to become innovative practitioners. My approach combines:
-- 🎯 Practical, hands-on learning
-- 🔬 Research-informed teaching
-- 🤝 Industry collaboration and best practices
-- 🌐 Global perspective from international experience
 
 ---
 

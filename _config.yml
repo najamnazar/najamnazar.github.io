@@ -25,11 +25,11 @@ author:
   avatar           : "profile_nn1.jpeg"
   name             : "Najam Nazar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD • Software Engineering Educator • AI4SE Researcher • PSM-I"
+  bio              : "PhD • Software Engineering • AI4SE • PSM-I"
   location         : "Melbourne, Australia"
-  employer         : "University of Adelaide"
+  employer         : "Monash University"
   uri              : # URL
-  email            : "najam.nazar@adelaide.edu.au" 
+  email            : "najam.nazar@monash.edu.au" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile

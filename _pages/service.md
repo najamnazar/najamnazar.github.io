@@ -7,6 +7,13 @@ author_profile: true
 
 {% include base_path %}
 
+## Professional Memberships
+
+- **IEEE – Computer Society**
+- **ACS – Australian Computer Society**
+
+<hr>
+
 ## Conference Organization
 
 ### Program Committee Member
