@@ -17,8 +17,8 @@ author_profile: true
 ## Conference Organization
 
 ### Program Committee Member
-* **ICSE 2026** - [Artifact Evaluation Track](https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation)
-* **ICSME 2026** - [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track)
+* **ICSE 2026** - [Artifact Evaluation Track](https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation){:target="_blank"}
+* **ICSME 2026** - [Industry Track](https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track){:target="_blank"}
 
 <!-- ### Conference Chair Roles
 * **Conference Name 2024** - Publicity Chair
