@@ -7,7 +7,7 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+locale                   : "en-AU"
 site_theme               : "default" # Currently available options are "default", "air"
 title                    : "Najam Nazar - PhD"
 title_separator          : "-"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile_nn1.jpeg"
   name             : "Najam Nazar"
   pronouns         : # example: "she/her"  
-  bio              : "PhD • Software Engineering • AI4SE • PSM-I"
+  bio              : "PhD • Software Engineering • AI4SE • MSR • PSM-I"
   location         : "Melbourne, Australia"
   employer         : "Monash University"
   uri              : # URL
