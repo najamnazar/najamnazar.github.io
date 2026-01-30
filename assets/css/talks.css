@@ -1,0 +1,199 @@
+/* Talks page styling */
+
+:root {
+  --talks-text-color: var(--global-text-color);
+  --talks-muted-color: rgba(0, 0, 0, 0.65);
+  --talks-accent-color: var(--global-link-color);
+  --talks-border-color: rgba(0, 0, 0, 0.08);
+  --talks-surface-color: rgba(0, 0, 0, 0.03);
+  --talks-surface-strong: rgba(0, 0, 0, 0.045);
+  --talks-hero-start: rgba(0, 0, 0, 0.04);
+  --talks-hero-end: rgba(0, 0, 0, 0.015);
+}
+
+html[data-theme="dark"] {
+  --talks-text-color: var(--global-text-color);
+  --talks-muted-color: rgba(255, 255, 255, 0.7);
+  --talks-accent-color: var(--global-link-color);
+  --talks-border-color: rgba(255, 255, 255, 0.08);
+  --talks-surface-color: rgba(255, 255, 255, 0.02);
+  --talks-surface-strong: rgba(255, 255, 255, 0.03);
+  --talks-hero-start: rgba(33, 33, 33, 0.85);
+  --talks-hero-end: rgba(80, 80, 80, 0.15);
+}
+
+.talks-page {
+  color: var(--talks-text-color);
+}
+
+.talks-page a {
+  color: var(--talks-accent-color);
+}
+
+.talks-hero {
+  margin-bottom: 2rem;
+  padding: 1.75rem;
+  border-radius: 18px;
+  border: 1px solid var(--talks-border-color);
+  background: linear-gradient(135deg, var(--talks-hero-start), var(--talks-hero-end));
+}
+
+.hero-content {
+  line-height: 1.6;
+}
+
+.hero-stats {
+  margin-top: 1.25rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.9rem;
+}
+
+.stat-card {
+  padding: 0.85rem;
+  border-radius: 12px;
+  border: 1px solid var(--talks-border-color);
+  background: var(--talks-surface-strong);
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--talks-muted-color);
+}
+
+.stat-value {
+  font-size: 1.45rem;
+  font-weight: 600;
+}
+
+.talkmap-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  margin-top: 1rem;
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+}
+
+.talks-feed {
+  margin-top: 2rem;
+}
+
+.upcoming-talks {
+  margin: 1.5rem 0;
+  padding: 1.25rem;
+  border-radius: 16px;
+  border: 1px solid var(--talks-border-color);
+  background: var(--talks-surface-color);
+}
+
+.upcoming-card {
+  margin-top: 1.25rem;
+}
+
+.upcoming-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.75rem;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--talks-muted-color);
+}
+
+.upcoming-title {
+  margin: 0.5rem 0;
+  font-size: 1.2rem;
+}
+
+.upcoming-location,
+.upcoming-summary {
+  margin: 0;
+  color: var(--talks-muted-color);
+}
+
+.upcoming-summary {
+  margin-top: 0.35rem;
+  font-size: 0.95rem;
+}
+
+.feed-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+  border-bottom: 1px solid var(--talks-border-color);
+  padding-bottom: 1rem;
+}
+
+.feed-header h2 {
+  margin: 0 0 0.25rem;
+}
+
+.feed-meta {
+  align-self: flex-end;
+  font-size: 0.85rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--talks-muted-color);
+}
+
+.talks-grid {
+  margin-top: 1.75rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.25rem;
+}
+
+.talk-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 16px;
+  border: 1px solid var(--talks-border-color);
+  background: var(--talks-surface-strong);
+  min-height: 100%;
+}
+
+.talk-card-body {
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+}
+
+.talk-card-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  font-size: 0.85rem;
+  color: var(--talks-muted-color);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.talk-card-title {
+  margin: 0;
+  font-size: 1.1rem;
+}
+
+.talk-card-location {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--talks-muted-color);
+}
+
+.talk-card-summary {
+  margin: 0;
+  font-size: 0.92rem;
+  color: var(--talks-muted-color);
+}
+
+@media (max-width: 640px) {
+  .talks-grid {
+    grid-template-columns: 1fr;
+  }
+}

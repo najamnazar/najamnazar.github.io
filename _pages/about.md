@@ -7,84 +7,116 @@ redirect_from:
   - /about.html
 ---
 
-I am a passionate educator and researcher specialising in Software Engineering, Data Science and Artificial Intelligence with over **8 years of teaching and research experience** across leading universities in Australia, Europe, and Asia. Currently, I have an adjunct affiliation with the [Department of Software Systems and Cyber Security (SSC)](https://www.monash.edu/it/ssc), [Faculty of Information Technology (FIT)](https://www.monash.edu/it), Monash University, Australia, where I **supervise Master’s and PhD students** and conduct **independent as well as collaborative research** in MSR and AI4SE. Previously, I serve as a **Lecturer (Education Specialist - Level B)** at the [University of Adelaide](https://set.adelaide.edu.au/computer-and-mathematical-sciences/), where I lead the review and refresh of course materials, ensuring cutting‑edge curriculum delivery across Software Engineering, Data Science, and Cybersecurity disciplines.
+<link rel="stylesheet" href="{{ base_path }}/assets/css/about.css">
 
-My unique blend of academic excellence and industry certification (**Professional Scrum Master I**) enables me to bridge theoretical knowledge with practical industry needs, preparing students for real world challenges.
+{% include base_path %}
 
-<!-----
+<div class="about-page">
+  <section class="about-hero">
+    <p>I am a passionate educator and researcher specialising in Software Engineering, Data Science, and Artificial Intelligence with over <strong>9 years of blended teaching and research experience</strong> across Australia, Europe and Asia. I currently hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master’s and PhD students and lead research in <strong>MSR </strong> and <strong>AI4SE</strong>.</p>
+    <p>Previously, I served as a <strong>Lecturer (Education Specialist)</strong> at the <a href="https://set.adelaide.edu.au/computer-and-mathematical-sciences/" target="_blank">University of Adelaide</a> where I reviewed and refreshed curriculum across Software Engineering, Data Science, and Cybersecurity disciplines. Even earlier I worked for the University of Melbourne as a Lecturer.</p>
 
-> ## 🎓 PhD Supervision Available
-> 
-> **I am currently accepting PhD students** in the following research areas:
-> - **Mining Software Repositories (MSR)**
-> - **AI-Driven Software Engineering** (AI for SE / SE for AI)
-> - **Machine Learning & Natural Language Processing** for Software Engineering
-> - **Empirical Software Engineering**
-> 
-> If you're interested in pursuing a PhD under my supervision, please contact me with your CV and research interests.
+    <div class="hero-stats">
+      <div class="hero-stat">
+        <span class="label">Certifications</span>
+        <span class="value">PSM-I</span>
+      </div>
+      <div class="hero-stat">
+        <span class="label">Certifications</span>
+        <span class="value">Cert IV Training &amp; Assessment</span>
+      </div>
+    </div>
+  </section>
 
----
+  <!-- <section class="about-areas">
+    <div class="section-header">
+      <h2>Research Areas</h2>
+      <p>Current focus across socio-technical software systems, intelligent tooling, and computing education.</p>
+    </div>
+    <div class="area-chips">
+      <span class="area-chip">Mining Software Repositories (MSR)</span>
+      <span class="area-chip">AI4SE &amp; SE4AI</span>
+      <span class="area-chip">Machine Learning &amp; NLP</span>
+      <span class="area-chip">Computer Science Education</span>
+    </div>
+  </section> -->
 
-## 🎯 Current Focus-->
----
+  <hr class="section-divider" />
 
-**Research Areas:**
-- Mining Software Repositories (MSR)
-- AI Driven/Infused Software Engineering (aka. AI4SE & SE4AI)
-- Machine Learning & Natural Language Processing
-- Computer Science Education
+  <section>
+    <div class="section-header">
+      <h2>Education</h2>
+    </div>
+    <div class="timeline">
+      <article class="timeline-card">
+        <h3>PhD in Software Engineering</h3>
+        <p class="timeline-meta">2011-2016 · Dalian University of Technology, China</p>
+        <div class="timeline-body">
+          Supervisor: <a href="http://faculty.dlut.edu.cn/jianghe/en/index.htm" target="_blank">Prof. He Jiang</a>
+        </div>
+      </article>
+      <article class="timeline-card">
+        <h3>MSc in Software Engineering</h3>
+        <p class="timeline-meta">2007-2010 · Chalmers University of Technology, Sweden</p>
+      </article>
+      <article class="timeline-card">
+        <h3>BSc (Hons) in Computer Science</h3>
+        <p class="timeline-meta">2001-2005 · University of the Punjab, Pakistan</p>
+      </article>
+    </div>
+  </section>
 
----
+  <hr class="section-divider" />
 
-## 🎓 Education
+  <section>
+    <div class="section-header">
+      <h2>Professional Experience</h2>
+      <p>Recent leadership roles across remote and on-campus teaching-intensive appointments.</p>
+    </div>
 
-**PhD in Software Engineering** | 2011-2016  
-[Dalian University of Technology](https://ssdut.dlut.edu.cn/en.htm), China  
-_Supervisor: [Prof. He Jiang](http://faculty.dlut.edu.cn/jianghe/en/index.htm)_
+    <h3>Fixed Term Positions</h3>
+    <div class="experience-grid">
+      <article class="experience-card">
+        <h4>Lecturer (Education Specialist - Level B)</h4>
+        <p class="timeline-meta">Oct 2024 - Dec 2025 · University of Adelaide (Remote)</p>
+        <ul>
+          <li>Subject matter expert across Software Engineering, Data Science, and Cybersecurity.</li>
+          <li>Curriculum alignment, quality assurance, and assessment design.</li>
+          <li>Developing AI-enhanced learning experiences and leading AI4SE research.</li>
+        </ul>
+      </article>
+      <article class="experience-card">
+        <h4>Assistant Professor</h4>
+        <p class="timeline-meta">Aug 2024 - Jul 2025 · ADA University, Azerbaijan</p>
+        <ul>
+          <li>Delivered software engineering coursework across undergraduate cohorts.</li>
+          <li>Supervised research projects and mentored early-career academics.</li>
+        </ul>
+      </article>
+      <article class="experience-card">
+        <h4>Lecturer (Teaching Specialist - Level B)</h4>
+        <p class="timeline-meta">Jun 2023 - Jul 2024 · University of Melbourne, Australia</p>
+        <ul>
+          <li>Led subject coordination, lecture delivery, and assessment design.</li>
+          <li>Advanced research in software engineering education and quality.</li>
+        </ul>
+      </article>
+    </div>
 
-**MSc in Software Engineering** | 2007-2010  
-[Chalmers University of Technology](https://www.chalmers.se/en/departments/cse/), Sweden
-
-**BSc (Hons) in Computer Science** | 2001-2005  
-[University of the Punjab](https://pucit.edu.pk/), Pakistan
-
----
-
-## Professional Experience
-
-### Fixed Term Positions
-
-**Lecturer (Education Specialist - Level B) - REMOTE POSITION** | _Oct 2024 - Dec 2025_  
-<img src="/images/logo-adelaide.svg" alt="University of Adelaide" style="height:24px; vertical-align:middle; margin-right:6px;" /> Adelaide University, Australia
-- Subject Matter Expert for Software Engineering, Data Science & Cybersecurity
-- Curriculum development and alignment, quality assurance and assessment design
-- AI enhanced learning developing
-- Self directed research in AI for Software Engineering
-
-**Assistant Professor** | _Aug 2024 - Jul 2025_  
-<img src="/images/logo-ada.png" alt="ADA University" style="height:24px; vertical-align:middle; margin-right:6px;" /> ADA University, Azerbaijan
-- Teaching software engineering courses
-- Research supervision and mentorship
-
-**Lecturer (Teaching Specialist - Level B)** | _Jun 2023 - Jul 2024_  
-<img src="/images/logo-melb.svg" alt="University of Melbourne" style="height:24px; vertical-align:middle; margin-right:6px;" /> University of Melbourne, Australia
-- Subject coordination and lecture delivery
-- Curriculum development and assessment design
-- Self directed research in Software Engineering
-
-### Casual & Part Time Teaching Roles
-
-- **Monash University** - Lecturer and Teaching Associate (Feb 2017 - Feb 2023)
-- **University of Melbourne** - Admin Teaching Associate (Jun 2019 - Dec 2022)
-- **Victoria University** - TAFE Lecturer (Feb 2023 - Dec 2023)
-- **RMIT University** - Cloud, System and Security (Feb 2020 - Oct 2023)
-- **Deakin University** - Tutor (Feb 2022 - Jun 2022)
-- **Swinburne University** - Tutor (Feb 2019 - Jun 2022)
-- **Southern Cross University** - Lecturer and Unit Assessor (Jul 2018 - Jul 2019)
-- **Victorian Institute of Technology** - Lecturer (Multiple appointments)
-- **Melbourne Institute of Technology** - Casual Lecturer (Feb 2017 - Dec 2017)
-
----
+    <h3>Casual &amp; Part-Time Teaching</h3>
+    <ul class="casual-list">
+      <li>Monash University – Lecturer &amp; Teaching Associate (Feb 2017 - Feb 2023)</li>
+      <li>University of Melbourne – Admin Teaching Associate (Jun 2019 - Dec 2022)</li>
+      <li>Victoria University – TAFE Lecturer (Feb 2023 - Dec 2023)</li>
+      <li>RMIT University – Cloud, System and Security (Feb 2020 - Oct 2023)</li>
+      <li>Deakin University – Tutor (Feb 2022 - Jun 2022)</li>
+      <li>Swinburne University – Tutor (Feb 2019 - Jun 2022)</li>
+      <li>Southern Cross University – Lecturer &amp; Unit Assessor (Jul 2018 - Jul 2019)</li>
+      <li>Victorian Institute of Technology – Lecturer (Multiple appointments)</li>
+      <li>Melbourne Institute of Technology – Casual Lecturer (Feb 2017 - Dec 2017)</li>
+    </ul>
+  </section>
+</div>
 
 <!-- OLD CONTENT BELOW - COMMENTED OUT
 

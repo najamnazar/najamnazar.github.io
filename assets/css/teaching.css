@@ -1,0 +1,174 @@
+/* Teaching page styling */
+
+:root {
+  --teaching-text-color: var(--global-text-color);
+  --teaching-muted-color: rgba(0, 0, 0, 0.6);
+  --teaching-link-color: var(--global-link-color);
+  --teaching-surface: rgba(0, 0, 0, 0.03);
+  --teaching-surface-strong: rgba(0, 0, 0, 0.045);
+  --teaching-border-color: rgba(0, 0, 0, 0.08);
+  --teaching-hero-bg-start: rgba(0, 0, 0, 0.04);
+  --teaching-hero-bg-end: rgba(0, 0, 0, 0.015);
+}
+
+html[data-theme="dark"] {
+  --teaching-text-color: var(--global-text-color);
+  --teaching-muted-color: rgba(255, 255, 255, 0.65);
+  --teaching-link-color: var(--global-link-color);
+  --teaching-surface: rgba(255, 255, 255, 0.02);
+  --teaching-surface-strong: rgba(255, 255, 255, 0.04);
+  --teaching-border-color: rgba(255, 255, 255, 0.12);
+  --teaching-hero-bg-start: rgba(33, 33, 33, 0.85);
+  --teaching-hero-bg-end: rgba(80, 80, 80, 0.15);
+}
+
+.teaching-page {
+  color: var(--teaching-text-color);
+}
+
+.teaching-page a {
+  color: var(--teaching-link-color);
+}
+
+.teaching-hero {
+  padding: 1.75rem;
+  border-radius: 18px;
+  border: 1px solid var(--teaching-border-color);
+  background: linear-gradient(135deg, var(--teaching-hero-bg-start), var(--teaching-hero-bg-end));
+  line-height: 1.6;
+}
+
+.hero-stats {
+  margin-top: 1.25rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+  gap: 0.9rem;
+}
+
+.stat-card {
+  padding: 0.9rem;
+  border-radius: 12px;
+  border: 1px solid var(--teaching-border-color);
+  background: var(--teaching-surface-strong);
+}
+
+.stat-label {
+  display: block;
+  font-size: 0.75rem;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--teaching-muted-color);
+}
+
+.stat-value {
+  font-size: 1.45rem;
+  font-weight: 600;
+}
+
+.teaching-pillars,
+.teaching-areas,
+.teaching-summary,
+.teaching-catalogue {
+  margin-top: 2rem;
+}
+
+.teaching-pillars h2,
+.teaching-areas h2,
+.teaching-summary h2,
+.teaching-catalogue h2 {
+  margin-bottom: 0.75rem;
+}
+
+.pillar-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+}
+
+.pillar-card {
+  padding: 1rem;
+  border-radius: 14px;
+  border: 1px solid var(--teaching-border-color);
+  background: var(--teaching-surface);
+  line-height: 1.4;
+}
+
+.section-header {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 1rem;
+}
+
+.area-grid {
+  margin-top: 1rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+  gap: 1rem;
+}
+
+.area-card {
+  padding: 1rem;
+  border-radius: 14px;
+  border: 1px solid var(--teaching-border-color);
+  background: var(--teaching-surface);
+}
+
+.teaching-summary ul {
+  margin: 0;
+  padding-left: 1.25rem;
+  line-height: 1.6;
+  color: var(--teaching-text-color);
+}
+
+.institution-grid {
+  margin-top: 1.5rem;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+  gap: 1.5rem;
+}
+
+.institution-card {
+  border-radius: 16px;
+  border: 1px solid var(--teaching-border-color);
+  background: var(--teaching-surface);
+  padding: 1.25rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.institution-head {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.institution-brand {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.institution-years {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--teaching-muted-color);
+}
+
+.course-list {
+  margin: 0;
+  padding-left: 1.25rem;
+  color: var(--teaching-text-color);
+}
+
+.course-list li + li {
+  margin-top: 0.35rem;
+}
+
+@media (max-width: 640px) {
+  .institution-grid {
+    grid-template-columns: 1fr;
+  }
+}

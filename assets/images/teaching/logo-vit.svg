@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#1b5e20"/>
+  <path d="M16 42 L24 22 L32 38 L40 22 L48 42" fill="none" stroke="#b9f6ca" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50%" y="56" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="13" letter-spacing="2" fill="#ffffff">VIT</text>
+</svg>

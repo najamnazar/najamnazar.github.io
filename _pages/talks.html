@@ -1,16 +1,102 @@
 ---
 layout: archive
-title: "Talks and presentations"
+title: "Talks"
 permalink: /talks/
 author_profile: true
 ---
 
-{% if site.talkmap_link == true %}
+<link rel="stylesheet" href="{{ base_path }}/assets/css/talks.css">
 
-<p style="text-decoration:underline;"><a href="/talkmap.html">See a map of all the places I've given a talk!</a></p>
-
+{% assign talk_count = site.talks | size %}
+{% assign talks_sorted = site.talks | sort: 'date' %}
+{% if talk_count > 0 %}
+  {% assign first_talk = talks_sorted | first %}
+  {% assign latest_talk = talks_sorted | last %}
+  {% assign talk_span = first_talk.date | date: '%Y' | append: '–' | append: latest_talk.date | date: '%Y' %}
+{% else %}
+  {% assign talk_span = '—' %}
 {% endif %}
 
-{% for post in site.talks reversed %}
-  {% include archive-single-talk.html %}
-{% endfor %}
+<div class="talks-page">
+  <section class="talks-hero">
+    <div class="hero-content">
+      <p>This page showcases invited talks, lightning sessions, and conference presentations that connect my research with developer, academic, and industry communities.</p>
+      <div class="hero-stats">
+        <div class="stat-card">
+          <span class="stat-label">Talks delivered</span>
+          <span class="stat-value">{{ talk_count }}</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Years active</span>
+          <span class="stat-value">{{ talk_span }}</span>
+        </div>
+        <div class="stat-card">
+          <span class="stat-label">Latest venue</span>
+          <span class="stat-value">{% if latest_talk %}{{ latest_talk.venue }}{% else %}—{% endif %}</span>
+        </div>
+      </div>
+      {% if site.talkmap_link == true %}
+        <a class="talkmap-link" href="{{ '/talkmap.html' | relative_url }}">See all talk locations</a>
+      {% endif %}
+    </div>
+  </section>
+
+  <section class="talks-feed">
+    <div class="upcoming-talks">
+      <header class="feed-header">
+        <div>
+          <h2>Upcoming</h2>
+          <p>Fresh appearances and accepted talks that are queued next.</p>
+        </div>
+        <div class="feed-meta">
+          <span>1 scheduled</span>
+        </div>
+      </header>
+
+      <article class="upcoming-card">
+        <div class="upcoming-meta">
+          <span class="upcoming-date">May 2026</span>
+          <span class="upcoming-type">Journal-first talk</span>
+        </div>
+        <h4 class="upcoming-title">
+          <a href="https://conf.researchr.org/details/icpc-2026/icpc-2026-journal-first/1/DPS-Design-Pattern-Summarisation-Using-Code-Features" target="_blank" rel="noopener">
+            DPS: Design Pattern Summarisation Using Code Features
+          </a>
+        </h4>
+        <p class="upcoming-location">ICPC 2026 · Rio de Janeiro, Brazil</p>
+        <p class="upcoming-summary">Journal-first presentation debuting the DPS pipeline to the ICPC community with a focus on actionable design insights.</p>
+      </article>
+    </div>
+
+    <header class="feed-header">
+      <div>
+        <h2>Talk archive</h2>
+        <p>Select any entry to read the abstract, download slides, or watch a recording (if any).</p>
+      </div>
+      <div class="feed-meta">
+        <span>{{ talk_count }} total</span>
+      </div>
+    </header>
+
+    <div class="talks-grid">
+      {% assign talks_desc = site.talks | sort: 'date' | reverse %}
+      {% for talk in talks_desc %}
+        <article class="talk-card" data-talk-year="{{ talk.date | date: '%Y' }}">
+          <div class="talk-card-body">
+            <div class="talk-card-meta">
+              <span>{{ talk.date | date: '%B %d, %Y' }}</span>
+              {% if talk.type %}
+                <span>{{ talk.type }}</span>
+              {% endif %}
+            </div>
+            <h3 class="talk-card-title"><a href="{{ talk.url | relative_url }}">{{ talk.title }}</a></h3>
+            {% if talk.venue or talk.location %}
+              <p class="talk-card-location">{{ talk.venue }}{% if talk.location %} &middot; {{ talk.location }}{% endif %}</p>
+            {% endif %}
+            <p class="talk-card-summary">{{ talk.excerpt | default: talk.content | strip_html | truncate: 170 }}</p>
+          </div>
+        </article>
+      {% endfor %}
+    </div>
+  </section>
+</div>

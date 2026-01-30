@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <rect width="64" height="64" rx="12" fill="#b71c1c"/>
+  <path d="M16 46 V18 L32 34 L48 18 V46" fill="none" stroke="#ffffff" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="50%" y="56" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="14" fill="#ffffff">MIT</text>
+</svg>

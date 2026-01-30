@@ -1,17 +1,27 @@
+:root {
+    --collapse-border-color: rgba(0, 0, 0, 0.15);
+    --collapse-header-bg: rgba(0, 0, 0, 0.06);
+}
+
+html[data-theme="dark"] {
+    --collapse-border-color: rgba(255, 255, 255, 0.2);
+    --collapse-header-bg: rgba(255, 255, 255, 0.08);
+}
+
 .container {
-    width:100%;
-    border:1px solid #d3d3d3;
+    width: 100%;
+    border: 1px solid var(--collapse-border-color);
 }
 .container div {
-    width:100%;
+    width: 100%;
 }
 .container .header {
-    background-color:#d3d3d3;
+    background-color: var(--collapse-header-bg);
     padding: 2px;
     cursor: pointer;
     font-weight: bold;
 }
 .container .content {
     display: none;
-    padding : 5px;
+    padding: 5px;
 }
