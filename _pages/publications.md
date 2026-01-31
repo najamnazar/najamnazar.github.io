@@ -8,31 +8,33 @@ author_profile: true
 <link rel="stylesheet" href="{{ base_path }}/assets/css/publications.css">
 
 <div class="publications-page">
-  <div class="publication-intro">
-    <p>Below, you'll find my publication list including preprints. My ORCID is 0000-0003-2317-2297.</p>
-  </div>
+  <section class="publication-hero">
+    <div class="publication-intro">
+      <p>Below, you'll find my publication list including preprints. My ORCID is 0000-0003-2317-2297.</p>
+    </div>
 
-  <div class="stats-grid">
-    <div class="stat-card">
-      <span class="stat-label">Citations</span>
-      <span class="stat-value">350</span>
+    <div class="stats-grid">
+      <div class="stat-card">
+        <span class="stat-label">Citations</span>
+        <span class="stat-value">350</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">h-index</span>
+        <span class="stat-value">7</span>
+      </div>
+      <div class="stat-card">
+        <span class="stat-label">i10-index</span>
+        <span class="stat-value">7</span>
+      </div>
     </div>
-    <div class="stat-card">
-      <span class="stat-label">h-index</span>
-      <span class="stat-value">7</span>
-    </div>
-    <div class="stat-card">
-      <span class="stat-label">i10-index</span>
-      <span class="stat-value">7</span>
-    </div>
-  </div>
 
-  {% if site.author.googlescholar %}
-  <div class="scholar-cta">
-    <span>Complete metrics on</span>
-    <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a>
-  </div>
-  {% endif %}
+    {% if site.author.googlescholar %}
+    <div class="scholar-cta">
+      <span>Complete metrics on</span>
+      <a href="{{site.author.googlescholar}}" target="_blank">Google Scholar</a>
+    </div>
+    {% endif %}
+  </section>
 
   <div class="filter-toolbar">
     <div class="filter-group is-open" data-filter-group="year">
@@ -42,6 +44,7 @@ author_profile: true
       </button>
       <div class="filter-options" id="year-filters">
         <button class="filter-chip active" data-filter="all" data-type="year">All</button>
+        <button class="filter-chip" data-filter="2026" data-type="year">2026</button>
         <button class="filter-chip" data-filter="2025" data-type="year">2025</button>
         <button class="filter-chip" data-filter="2023" data-type="year">2023</button>
         <button class="filter-chip" data-filter="2022" data-type="year">2022</button>
@@ -58,6 +61,7 @@ author_profile: true
       <div class="filter-options" id="status-filters">
         <button class="filter-chip active" data-filter="all" data-type="status">All</button>
         <button class="filter-chip" data-filter="published" data-type="status">Published</button>
+        <button class="filter-chip" data-filter="in-review" data-type="status">In Review</button>
       </div>
     </div>
 
@@ -69,11 +73,29 @@ author_profile: true
       <div class="filter-options" id="type-filters">
         <button class="filter-chip active" data-filter="all" data-type="type">All</button>
         <button class="filter-chip" data-filter="journal" data-type="type">Journal</button>
+        <button class="filter-chip" data-filter="conference" data-type="type">Conference</button>
       </div>
     </div>
   </div>
 
   <div class="publication-list">
+    <section class="publication-year-section" data-year="2026">
+      <div class="year-header">
+        <h2>2026</h2>
+      </div>
+      <article class="publication-item" data-year="2026" data-status="in-review" data-type="conference">
+        <div class="publication-title-line">
+          <span class="publication-pill is-inreview">In Review</span>
+          <span class="publication-title">Deterministic vs Probabilistic Code Summarisation: An Empirical Trade-off Study</span>
+        </div>
+        <p class="publication-authors">N. Nazar and Christoph Treude | 2026</p>
+        <p class="publication-citation"><em>30th International Conference on Evaluation and Assessment in Software Engineering (EASE).</em> In review for the 2026 edition.</p>
+        <div class="publication-links">
+          <span>Manuscript under review</span>
+        </div>
+      </article>
+    </section>
+
     <section class="publication-year-section" data-year="2025">
       <div class="year-header">
         <h2>2025</h2>

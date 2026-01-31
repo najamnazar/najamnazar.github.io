@@ -11,6 +11,8 @@
   --research-border-color: rgba(0, 0, 0, 0.08);
   --research-chip-border: rgba(0, 0, 0, 0.16);
   --research-pill-border: rgba(0, 0, 0, 0.2);
+  --research-hero-start: rgba(0, 0, 0, 0.04);
+  --research-hero-end: rgba(0, 0, 0, 0.015);
 }
 
 html[data-theme="dark"] {
@@ -24,6 +26,8 @@ html[data-theme="dark"] {
   --research-border-color: rgba(255, 255, 255, 0.08);
   --research-chip-border: rgba(255, 255, 255, 0.15);
   --research-pill-border: rgba(255, 255, 255, 0.2);
+  --research-hero-start: rgba(33, 33, 33, 0.85);
+  --research-hero-end: rgba(80, 80, 80, 0.15);
 }
 
 .research-page {
@@ -35,10 +39,11 @@ html[data-theme="dark"] {
 }
 
 .research-hero {
+  margin-bottom: 1.75rem;
   padding: 1.5rem;
   border: 1px solid var(--research-border-color);
-  border-radius: 14px;
-  background: var(--research-surface-strong);
+  border-radius: 18px;
+  background: linear-gradient(135deg, var(--research-hero-start), var(--research-hero-end));
   line-height: 1.6;
 }
 
