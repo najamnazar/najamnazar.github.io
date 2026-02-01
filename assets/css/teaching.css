@@ -138,6 +138,25 @@ html[data-theme="dark"] {
   gap: 0.75rem;
 }
 
+.institution-card--accent {
+  border: none;
+  background: linear-gradient(135deg, rgba(25, 30, 65, 0.95), rgba(64, 88, 155, 0.75));
+  color: #f4f6ff;
+  box-shadow: 0 25px 45px rgba(19, 24, 49, 0.25);
+}
+
+.institution-card--accent .institution-years,
+.institution-card--accent .course-list,
+.institution-card--accent .institution-note {
+  color: rgba(244, 246, 255, 0.85);
+}
+
+.institution-note {
+  margin: 0;
+  font-size: 0.9rem;
+  color: var(--teaching-muted-color);
+}
+
 .institution-head {
   display: flex;
   justify-content: space-between;
@@ -149,6 +168,11 @@ html[data-theme="dark"] {
   display: flex;
   align-items: center;
   gap: 0.75rem;
+}
+
+.institution-brand h3 {
+  margin: 0;
+  line-height: 1.2;
 }
 
 .institution-years {
