@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="research-page">
   <section class="research-hero">
-    <p>I have very broad interests in Software Engineering and Artificial Intelligence but in particular focus on Empirical Sofwtare Engineering, Mining Software Respositories AI4Se and SE4AI.</p>
+    <p>I have very broad interests in Software Engineering and Artificial Intelligence but in particular focus on Empirical Software Engineering, Mining Software Respositories, AI4SE and SE4AI.</p>
     <div class="hero-highlights">
       <div class="highlight-card">
         <span class="highlight-label">Research tools</span>
@@ -38,19 +38,19 @@ author_profile: true
     <div class="areas-grid">
       <article class="area-card">
         <h3>Empirical Software Engineering</h3>
-        <p>Large-scale studies of developer workflows, artifacts, and socio-technical systems to ground tooling decisions in evidence.</p>
+        <p>Advancing evidence‑based software practice through rigorous empirical methods—large‑scale mining, experiments and mixed‑method studies of developer workflows, artefacts and socio‑technical systems—to evaluate and improve tools and processes.</p>
       </article>
       <article class="area-card">
         <h3>Mining Software Repositories</h3>
-        <p>Extracting actionable signals from version control, issue trackers, and communication archives to guide project evolution.</p>
+        <p>Analysing version control, issue and code review repositories, Q&A archives, CI/build servers and runtime telemetry with data science, ML/AI and qualitative methods to surface actionable insights that improve software engineering practice and guide project evolution.</p>
       </article>
       <article class="area-card">
         <h3>AI4SE</h3>
-        <p>Applying machine learning and language technologies to automate pattern detection, summarisation, and reasoning over code.</p>
+        <p>dvancing AI‑driven Software Engineering through human‑centred, trustworthy, sustainable and collaborative methods - spanning LLM‑enabled automation, AI‑assisted design, recommender systems for code and repair, prompt engineering, and rigorous efficacy measurement beyond traditional metrics.</p>
       </article>
       <article class="area-card">
         <h3>SE4AI</h3>
-        <p>Building engineering practices, datasets, and review workflows that make AI systems trustworthy and reproducible.</p>
+        <p>Engineering reliable, reproducible AI‑enabled systems—spanning SE for models and AI‑infused systems; AI code, libraries and datasets; autonomic and self‑healing systems with automated model repair; rigorous testing, verification, validation and user‑based evaluation; and requirements engineering.</p>
       </article>
     </div>
 
@@ -69,8 +69,8 @@ author_profile: true
       <div class="project-grid">
         <article class="project-card" data-areas="ai4se empirical-se" data-status="ongoing">
           <div class="project-meta">Since 2025</div>
-          <h4 class="project-title">Design Pattern Summariser</h4>
-          <p class="project-summary">A feature-based design pattern summarisation system that parses Java systems with JavaParser, produces JSON knowledge graphs, and turns them into readable SimpleNLG-generated narratives.</p>
+          <h4 class="project-title">Design Pattern Identification and Summarisation</h4>
+          <p class="project-summary">A feature-based and LLM-based design pattern summarisation system that parses Java systems with JavaParser, produces JSON knowledge graphs and turns them into readable English generated narratives.</p>
           <ul class="project-points">
             <li>Captures both the structural context and usage intent for every detected pattern.</li>
             <li>Exports enriched JSON artifacts, enabling downstream reasoning pipelines.</li>
@@ -79,9 +79,11 @@ author_profile: true
           <div class="project-pills">
             <span class="project-pill">AI4SE</span>
             <span class="project-pill">Empirical SE</span>
+            <span class="project-pill">MSR</span>
           </div>
           <div class="project-links">
             <a href="https://github.com/najamnazar/designpatternsummariser" target="_blank">GitHub</a>
+            <a href="https://github.com/najamnazar/designpatternsummarisation-nlg-swum-llm" target="_blank">GitHub</a>
           </div>
         </article>
       </div>
@@ -100,11 +102,11 @@ author_profile: true
             <li>Feeds summaries and diagrams into the Design Pattern Summariser pipeline.</li>
           </ul>
           <div class="project-pills">
-            <span class="project-pill">AI4SE</span>
+            <span class="project-pill">Empirical SE</span>
             <span class="project-pill">MSR</span>
           </div>
           <div class="project-links">
-            <a href="https://github.com/najamnazar/designpatterndetection" target="_blank">GitHub</a>
+            <a href="https://github.com/najamnazar/designpatterndetection" target="_blank">Python 2 Edition</a>
             <a href="https://github.com/najamnazar/designpatterndetection-v2-python3" target="_blank">Python 3 Edition</a>
           </div>
         </article>
@@ -119,7 +121,7 @@ author_profile: true
             <li>Exports datasets compatible with the detection and summarisation pipelines below.</li>
           </ul>
           <div class="project-pills">
-            <span class="project-pill">SE4AI</span>
+            <span class="project-pill">Empirical SE</span>
             <span class="project-pill">MSR</span>
           </div>
           <div class="project-links">
@@ -137,7 +139,7 @@ author_profile: true
             <li>Makes both the corpus and feature sets openly available for replication.</li>
           </ul>
           <div class="project-pills">
-            <span class="project-pill">AI4SE</span>
+            <span class="project-pill">MSR</span>
             <span class="project-pill">Empirical SE</span>
           </div>
           <div class="project-links">

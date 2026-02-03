@@ -13,13 +13,13 @@ redirect_from:
 
 <div class="about-page">
   <section class="about-hero">
-    <p>I am a passionate educator and researcher specialising in Software Engineering, Data Science, and Artificial Intelligence with over <strong>9 years of blended teaching and research experience</strong> across Australia, Europe and Asia. I currently hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master’s and PhD students and lead research in <strong>MSR </strong> and <strong>AI4SE</strong>.</p>
-    <p>Previously, I served as a <strong>Lecturer (Education Specialist)</strong> at the <a href="https://set.adelaide.edu.au/computer-and-mathematical-sciences/" target="_blank">University of Adelaide</a> where I reviewed and refreshed curriculum across Software Engineering, Data Science, and Cybersecurity disciplines. Even earlier I worked for the University of Melbourne as a Lecturer.</p>
+    <p>I am a passionate educator and researcher specialising in Software Engineering, Data Science and Artificial Intelligence with over <strong>9 years of blended teaching and research experience</strong> across Australia, Europe and Asia. I currently hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master’s and PhD students and lead research in <strong>Mining Software Repositories (MSR) </strong> and <strong>AI4SE</strong>.</p>
+    <p>Previously, I served as a <strong>Lecturer (Education Specialist)</strong> at the <a href="https://set.adelaide.edu.au/computer-and-mathematical-sciences/" target="_blank">University of Adelaide</a> where I reviewed and refreshed curriculum across Software Engineering, Data Science, and Cybersecurity disciplines. Even earlier, I worked for the University of Melbourne as an Education Specialist.</p>
 
     <div class="hero-stats">
       <div class="hero-stat">
         <span class="label">Certifications</span>
-        <span class="value">PSM-I</span>
+        <span class="value">Professional Scrum Master (PSM) -I</span>
       </div>
       <div class="hero-stat">
         <span class="label">Certifications</span>
@@ -70,8 +70,8 @@ redirect_from:
 
   <section>
     <div class="section-header">
-      <h2>Professional Experience</h2>
-      <p>Recent leadership roles across remote and on-campus teaching-intensive appointments.</p>
+      <h2>Academic Appointments</h2>
+      <p>List of all academic positions in chronological order.</p>
     </div>
 
     <h3>Fixed Term Positions</h3>
@@ -80,8 +80,8 @@ redirect_from:
         <h4>Lecturer (Education Specialist - Level B)</h4>
         <p class="timeline-meta">Oct 2024 - Dec 2025 · University of Adelaide (Remote)</p>
         <ul>
-          <li>Subject matter expert across Software Engineering, Data Science, and Cybersecurity.</li>
-          <li>Curriculum alignment, quality assurance, and assessment design.</li>
+          <li>Subject matter expert across Software Engineering, Data Science and Cybersecurity.</li>
+          <li>Curriculum alignment, quality assurance and assessment design.</li>
           <li>Developing AI-enhanced learning experiences and leading AI4SE research.</li>
         </ul>
       </article>
@@ -97,24 +97,52 @@ redirect_from:
         <h4>Lecturer (Teaching Specialist - Level B)</h4>
         <p class="timeline-meta">Jun 2023 - Jul 2024 · University of Melbourne, Australia</p>
         <ul>
-          <li>Led subject coordination, lecture delivery, and assessment design.</li>
+          <li>Led subject coordination, lecture delivery and assessment design.</li>
           <li>Advanced research in software engineering education and quality.</li>
+          <li>Student mentorship.</li>
         </ul>
       </article>
     </div>
 
-    <h3>Casual &amp; Part-Time Teaching</h3>
-    <ul class="casual-list">
-      <li>Monash University – Lecturer &amp; Teaching Associate (Feb 2017 - Feb 2023)</li>
-      <li>University of Melbourne – Admin Teaching Associate (Jun 2019 - Dec 2022)</li>
-      <li>Victoria University – TAFE Lecturer (Feb 2023 - Dec 2023)</li>
-      <li>RMIT University – Cloud, System and Security (Feb 2020 - Oct 2023)</li>
-      <li>Deakin University – Tutor (Feb 2022 - Jun 2022)</li>
-      <li>Swinburne University – Tutor (Feb 2019 - Jun 2022)</li>
-      <li>Southern Cross University – Lecturer &amp; Unit Assessor (Jul 2018 - Jul 2019)</li>
-      <li>Victorian Institute of Technology – Lecturer (Multiple appointments)</li>
-      <li>Melbourne Institute of Technology – Casual Lecturer (Feb 2017 - Dec 2017)</li>
-    </ul>
+    <h3>Casual &amp; Part-Time Teaching Positions</h3>
+    <div class="experience-grid experience-grid--casual">
+      <article class="experience-card experience-card--casual">
+        <h4>Monash University</h4>
+        <p class="timeline-meta">Lecturer &amp; Teaching Associate · Feb 2017 - Feb 2023</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>University of Melbourne</h4>
+        <p class="timeline-meta">Admin Teaching Associate · Jun 2019 - Dec 2022</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>Victoria University</h4>
+        <p class="timeline-meta">TAFE Lecturer · Feb 2023 - Dec 2023</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>RMIT University</h4>
+        <p class="timeline-meta">Cloud, System and Security · Feb 2020 - Oct 2023</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>Deakin University</h4>
+        <p class="timeline-meta">Tutor · Feb 2022 - Jun 2022</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>Swinburne University</h4>
+        <p class="timeline-meta">Tutor · Feb 2019 - Jun 2022</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>Southern Cross University</h4>
+        <p class="timeline-meta">Lecturer &amp; Unit Assessor · Jul 2018 - Jul 2019</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>Victorian Institute of Technology</h4>
+        <p class="timeline-meta">Lecturer · Multiple appointments</p>
+      </article>
+      <article class="experience-card experience-card--casual">
+        <h4>Melbourne Institute of Technology</h4>
+        <p class="timeline-meta">Casual Lecturer · Feb 2017 - Dec 2017</p>
+      </article>
+    </div>
   </section>
 </div>
 
