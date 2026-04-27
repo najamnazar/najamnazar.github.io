@@ -18,13 +18,13 @@ author_profile: true
     <h2>Professional Memberships</h2>
     <div class="memberships-grid">
       <div class="membership-card">
-        <span class="membership-icon">🏛️</span>
+        <!--span class="membership-icon">🏛️</span-->
         <div>
           <p class="membership-name">IEEE Computer Society</p>
         </div>
       </div>
       <div class="membership-card">
-        <span class="membership-icon">💻</span>
+        <!--span class="membership-icon">💻</span-->
         <div>
           <p class="membership-name">Australian Computer Society (ACS)</p>
         </div>
@@ -37,6 +37,9 @@ author_profile: true
     
     <h3>Program Committee Member</h3>
     <ul class="service-list">
+    <li class="service-item">
+        <strong>ICSE 2027</strong> - <a href="https://conf.researchr.org/track/icse-2027/icse-2027-seis" target="_blank">Software Engineering in Society (SEIS) Track</a>
+      </li>
       <li class="service-item">
         <strong>ICSE 2026</strong> - <a href="https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation" target="_blank">Artifact Evaluation Track</a>
       </li>

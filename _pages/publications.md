@@ -16,7 +16,7 @@ author_profile: true
     <div class="stats-grid">
       <div class="stat-card">
         <span class="stat-label">Citations</span>
-        <span class="stat-value">350</span>
+        <span class="stat-value">354</span>
       </div>
       <div class="stat-card">
         <span class="stat-label">h-index</span>
@@ -89,7 +89,7 @@ author_profile: true
           <span class="publication-title">Deterministic vs Probabilistic Code Summarisation: An Empirical Trade-off Study</span>
         </div>
         <p class="publication-authors">N. Nazar and Christoph Treude | 2026</p>
-        <p class="publication-citation"><em>30th International Conference on Evaluation and Assessment in Software Engineering (EASE).</em> In review for the 2026 edition.</p>
+        <p class="publication-citation"><em>20th International Symposium on Empirical Software Engineering and Measurement (ESEM).</em> </p>
         <div class="publication-links">
           <span>Manuscript under review</span>
         </div>

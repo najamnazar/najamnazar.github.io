@@ -9,6 +9,8 @@ author_profile: true
 
 {% assign talk_count = site.talks | size %}
 {% assign talks_sorted = site.talks | sort: 'date' %}
+{% assign upcoming_talks = site.talks | where_exp: 'talk', 'talk.date > site.time' | sort: 'date' %}
+{% assign upcoming_count = upcoming_talks | size %}
 {% if talk_count > 0 %}
   {% assign first_talk = talks_sorted | first %}
   {% assign latest_talk = talks_sorted | last %}
@@ -49,23 +51,29 @@ author_profile: true
           <p>Fresh appearances and accepted talks that are queued next.</p>
         </div>
         <div class="feed-meta">
-          <span>1 scheduled</span>
+          <span>{% if upcoming_count > 0 %}{{ upcoming_count }} scheduled{% else %}none scheduled{% endif %}</span>
         </div>
       </header>
 
-      <article class="upcoming-card">
-        <div class="upcoming-meta">
-          <span class="upcoming-date">April 2026</span>
-          <span class="upcoming-type">Journal-first talk</span>
-        </div>
-        <h4 class="upcoming-title">
-          <a href="https://conf.researchr.org/details/icpc-2026/icpc-2026-journal-first/1/DPS-Design-Pattern-Summarisation-Using-Code-Features" target="_blank" rel="noopener">
-            DPS: Design Pattern Summarisation Using Code Features
-          </a>
-        </h4>
-        <p class="upcoming-location">ICPC 2026 · Rio de Janeiro, Brazil</p>
-        <p class="upcoming-summary">Journal-first presentation discussing the Design Pattern Sumamrisation techniques with ICPC audiance.</p>
-      </article>
+      {% if upcoming_count > 0 %}
+        {% for talk in upcoming_talks %}
+          <article class="upcoming-card">
+            <div class="upcoming-meta">
+              <span class="upcoming-date">{{ talk.date | date: '%B %Y' }}</span>
+              <span class="upcoming-type">{{ talk.type | default: 'Talk' }}</span>
+            </div>
+            <h4 class="upcoming-title">
+              <a href="{{ talk.url | relative_url }}">{{ talk.title }}</a>
+            </h4>
+            {% if talk.venue or talk.location %}
+              <p class="upcoming-location">{{ talk.venue }}{% if talk.location %} · {{ talk.location }}{% endif %}</p>
+            {% endif %}
+            <p class="upcoming-summary">{{ talk.excerpt | default: talk.content | strip_html | truncate: 170 }}</p>
+          </article>
+        {% endfor %}
+      {% else %}
+        <p class="upcoming-summary">No upcoming talks are currently scheduled.</p>
+      {% endif %}
     </div>
 
     <header class="feed-header">

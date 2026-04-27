@@ -1,7 +1,7 @@
 ---
 title: "Feature based Software Design Pattern Detection"
 collection: talks
-type: "Conference proceedings talk"
+type: "Journal First Talk"
 permalink: /talks/icsme-22
 venue: "ICSME 22"
 date: 2022-10-05
