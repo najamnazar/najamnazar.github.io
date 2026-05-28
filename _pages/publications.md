@@ -16,7 +16,7 @@ author_profile: true
     <div class="stats-grid">
       <div class="stat-card">
         <span class="stat-label">Citations</span>
-        <span class="stat-value">354</span>
+        <span class="stat-value">369</span>
       </div>
       <div class="stat-card">
         <span class="stat-label">h-index</span>
@@ -86,10 +86,10 @@ author_profile: true
       <article class="publication-item" data-year="2026" data-status="in-review" data-type="conference">
         <div class="publication-title-line">
           <span class="publication-pill is-inreview">In Review</span>
-          <span class="publication-title">Deterministic vs Probabilistic Code Summarisation: An Empirical Trade-off Study</span>
+          <span class="publication-title">Deterministic vs. Probabilistic Summarisation: An Empirical Trade-off Study in Design Pattern Centric Java Code</span>
         </div>
         <p class="publication-authors">N. Nazar and Christoph Treude | 2026</p>
-        <p class="publication-citation"><em>20th International Symposium on Empirical Software Engineering and Measurement (ESEM).</em> </p>
+        <p class="publication-citation"><em>The Empirical Software Engineering International Week 2026 - including the 20th International Symposium on Empirical Software Engineering and Measurement (ESEIW 2026 \& ESEM 2026).</em> </p>
         <div class="publication-links">
           <span>Manuscript under review</span>
         </div>
