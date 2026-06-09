@@ -9,6 +9,11 @@
   --teaching-border-color: rgba(0, 0, 0, 0.08);
   --teaching-hero-bg-start: rgba(0, 0, 0, 0.04);
   --teaching-hero-bg-end: rgba(0, 0, 0, 0.015);
+  --teaching-accent-bg-start: rgba(25, 30, 65, 0.92);
+  --teaching-accent-bg-end: rgba(64, 88, 155, 0.75);
+  --teaching-accent-text: #f4f6ff;
+  --teaching-accent-text-muted: rgba(244, 246, 255, 0.85);
+  --teaching-accent-shadow: rgba(19, 24, 49, 0.25);
 }
 
 html[data-theme="dark"] {
@@ -20,6 +25,11 @@ html[data-theme="dark"] {
   --teaching-border-color: rgba(255, 255, 255, 0.12);
   --teaching-hero-bg-start: rgba(33, 33, 33, 0.85);
   --teaching-hero-bg-end: rgba(80, 80, 80, 0.15);
+  --teaching-accent-bg-start: rgba(35, 42, 90, 0.95);
+  --teaching-accent-bg-end: rgba(74, 102, 175, 0.80);
+  --teaching-accent-text: #e8ecff;
+  --teaching-accent-text-muted: rgba(232, 236, 255, 0.80);
+  --teaching-accent-shadow: rgba(10, 14, 40, 0.45);
 }
 
 .teaching-page {
@@ -140,15 +150,15 @@ html[data-theme="dark"] {
 
 .institution-card--accent {
   border: none;
-  background: linear-gradient(135deg, rgba(25, 30, 65, 0.95), rgba(64, 88, 155, 0.75));
-  color: #f4f6ff;
-  box-shadow: 0 25px 45px rgba(19, 24, 49, 0.25);
+  background: linear-gradient(135deg, var(--teaching-accent-bg-start), var(--teaching-accent-bg-end));
+  color: var(--teaching-accent-text);
+  box-shadow: 0 25px 45px var(--teaching-accent-shadow);
 }
 
 .institution-card--accent .institution-years,
 .institution-card--accent .course-list,
 .institution-card--accent .institution-note {
-  color: rgba(244, 246, 255, 0.85);
+  color: var(--teaching-accent-text-muted);
 }
 
 .institution-note {
