@@ -16,7 +16,7 @@ author_profile: true
     <div class="stats-grid">
       <div class="stat-card">
         <span class="stat-label">Citations</span>
-        <span class="stat-value">369</span>
+        <span class="stat-value">375</span>
       </div>
       <div class="stat-card">
         <span class="stat-label">h-index</span>

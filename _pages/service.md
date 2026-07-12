@@ -46,6 +46,9 @@ author_profile: true
       <li class="service-item">
         <strong>ICSME 2026</strong> - <a href="https://conf.researchr.org/track/icsme-2026/icsme-2026-industry-track" target="_blank">Industry Track</a>
       </li>
+      <li class="service-item">
+        <strong>APSEC 2026</strong> - <a href="https://conf.researchr.org/track/apsec-2026/apsec-2026-software-engineering-in-practices" target="_blank">Software Engineering in Practices Track</a>
+      </li>
     </ul>
   </section>
 
@@ -55,19 +58,25 @@ author_profile: true
     <h3>Reviewer</h3>
     <ul class="service-list">
       <li class="service-item">
-        <strong>Journal of Systems and Software</strong> <em>(2025-Present)</em>
+        <strong>IEEE Transactions on Software Engineering</strong> <em>(2019 -  Present)</em>
       </li>
       <li class="service-item">
-        <strong>Journal of Software: Evolution and Process</strong> <em>(2020 & 2024)</em>
+        <strong>Software Quality Journal</strong> <em>(2026 - Present)</em>
+      </li>
+      <li class="service-item">
+        <strong>Journal of Systems and Software</strong> <em>(2025 - Present)</em>
+      </li>
+      <li class="service-item">
+        <strong>Journal of Software: Evolution and Process</strong> <em>(2020, 2024–2025)</em>
       </li>
       <li class="service-item">
         <strong>International Journal of Software Engineering and Knowledge Engineering</strong> <em>(2023)</em>
       </li>
       <li class="service-item">
-        <strong>IEEE Transactions on Software Engineering</strong> <em>(2019, 2020, 2021, 2022)</em>
+        <strong>IEEE Access</strong> <em>(2020)</em>
       </li>
       <li class="service-item">
-        <strong>IEEE Access</strong> <em>(2020)</em>
+        <strong>Arabian Journal for Science and Engineering</strong> <em>(2021)</em>
       </li>
     </ul>
   </section>
