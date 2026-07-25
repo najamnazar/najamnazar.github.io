@@ -6,20 +6,26 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "Grants"
+    url: /grants/
+
   - title: "Talks"
-    url: /talks/    
+    url: /talks/
 
   - title: "Teaching"
-    url: /teaching/    
-    
+    url: /teaching/
+
   - title: "Service"
     url: /service/
-    
-  #- title: "Blog Posts"
-  #  url: /year-archive/
-    
+
+  #- title: "Supervision"
+  #  url: /supervision/
+
   #- title: "CV"
   #  url: /cv/
-    
+
+  #- title: "Blog Posts"
+  #  url: /year-archive/
+
   #- title: "Guide"
   #  url: /markdown/

@@ -16,7 +16,11 @@ gem "github-pages", group: :jekyll_plugins
 
 # gem "jekyll"
 
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+# wdm's native extension fails to build against modern MinGW/Ruby 3.3 toolchains
+# (implicit-function-declaration treated as error). It only powers the optional
+# Windows filesystem watcher for --livereload; without it, jekyll serve falls
+# back to polling. Safe to leave disabled for local builds.
+# gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do

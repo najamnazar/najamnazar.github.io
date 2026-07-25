@@ -201,6 +201,22 @@ html[data-theme="dark"] {
   margin-top: 0.35rem;
 }
 
+.course-list-details summary {
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: var(--teaching-link-color);
+  list-style: none;
+}
+
+.course-list-details summary::-webkit-details-marker {
+  display: none;
+}
+
+.course-list-details .course-list {
+  margin-top: 0.75rem;
+}
+
 @media (max-width: 640px) {
   .institution-grid {
     grid-template-columns: 1fr;

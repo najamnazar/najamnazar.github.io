@@ -9,7 +9,7 @@ author_profile: true
 
 <div class="research-page">
   <section class="research-hero">
-    <p>I have very broad interests in Software Engineering and Artificial Intelligence but in particular focus on Empirical Software Engineering, Mining Software Respositories, AI4SE and SE4AI.</p>
+    <p>I have very broad interests in Software Engineering and Artificial Intelligence but in particular focus on Empirical Software Engineering, Mining Software Repositories, AI4SE and SE4AI.</p>
     <div class="hero-highlights">
       <div class="highlight-card">
         <span class="highlight-label">Research tools</span>
@@ -23,6 +23,33 @@ author_profile: true
         <span class="highlight-label">Years of focus</span>
         <span class="highlight-value">2016-2025</span>
       </div>
+    </div>
+  </section>
+
+  <section class="research-areas">
+    <div class="areas-header">
+      <div>
+        <h2>Research agenda, 2026–2030</h2>
+        <p class="area-tip">Where the research programme is heading over the next funding cycle.</p>
+      </div>
+    </div>
+    <div class="areas-grid">
+      <article class="area-card">
+        <h3>Trustworthy AI4SE agents</h3>
+        <p>Moving from LLM-assisted code recommendation to autonomous coding and security agents whose outputs can be verified and repaired automatically — the direction underpinning the VulGuard-Agent proposal. Targets ARC Discovery/Linkage and industry co-funding (e.g. cloud/security partners).</p>
+      </article>
+      <article class="area-card">
+        <h3>Design pattern &amp; architecture intelligence</h3>
+        <p>Extending feature-based and LLM-based pattern detection/summarisation into full architecture-recovery tooling, so teams can inventory reuse and technical debt at scale. Builds on the CodeLabeller/CFS/PRST line of work, targeting Discovery Early Career and industry-linkage schemes.</p>
+      </article>
+      <article class="area-card">
+        <h3>Empirical methods for AI-assisted development</h3>
+        <p>Rigorous, replication-ready studies of how AI coding assistants change developer behaviour, code quality and maintainability — mixed-methods work suited to ARC Discovery and international collaboration grants.</p>
+      </article>
+      <article class="area-card">
+        <h3>AI4SE in computing education</h3>
+        <p>Translating AI4SE and MSR findings into curriculum and assessment design, connecting the research programme to the teaching and curriculum-review work already underway. A natural fit for OLT/teaching-innovation grants alongside the research-council schemes above.</p>
+      </article>
     </div>
   </section>
 

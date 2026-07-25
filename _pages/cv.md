@@ -3,6 +3,7 @@ layout: archive
 title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
+published: false
 redirect_from:
   - /resume
 ---
@@ -36,6 +37,24 @@ redirect_from:
       <article class="timeline-card">
         <h3>BSc (Hons) in Computer Science</h3>
         <p class="timeline-meta">2001–2005 · University of the Punjab, Pakistan</p>
+      </article>
+    </div>
+  </section>
+
+  <hr class="section-divider" />
+
+  <section>
+    <div class="section-header">
+      <h2>Current (2026)</h2>
+    </div>
+    <div class="experience-grid">
+      <article class="experience-card">
+        <h4>Adjunct Senior Lecturer</h4>
+        <p class="timeline-meta">Department of Software Systems &amp; Cyber Security, Faculty of IT, Monash University · 2026–present</p>
+        <ul>
+          <li>Teaching FIT5136 (Software Engineering, 2026 S1) and FIT5238 (IT Systems Capstone Project, 2026 T3).</li>
+          <li>Supervising Master's and PhD students; leading research in AI4SE and MSR.</li>
+        </ul>
       </article>
     </div>
   </section>
@@ -143,6 +162,38 @@ redirect_from:
       <li>Certificate IV in Training &amp; Assessment</li>
     </ul>
   </section>
+
+  <hr class="section-divider" />
+
+  <section>
+    <div class="section-header">
+      <h2>Grants &amp; Funding</h2>
+    </div>
+    <div class="experience-grid">
+      <article class="experience-card">
+        <h4>VulGuard-Agent <em>(under review)</em></h4>
+        <p class="timeline-meta">Amazon-funded research grant · USD 80,000 · Co-Principal Investigator · Submitted 2026</p>
+      </article>
+      <article class="experience-card">
+        <h4>Monash University Grant</h4>
+        <p class="timeline-meta">Internal Monash research grant · AUD 45,000 total (AUD 15,000/year) · 2025–2028 · Principal Investigator</p>
+      </article>
+      <article class="experience-card">
+        <h4>Research Impetus Grant</h4>
+        <p class="timeline-meta">Monash University · AUD 19,000 · 2024 · Principal Investigator</p>
+      </article>
+    </div>
+    <p><a href="/grants/">Full Grants &amp; Funding page →</a></p>
+  </section>
+
+  <!-- <hr class="section-divider" />
+
+  <section>
+    <div class="section-header">
+      <h2>Supervision</h2>
+    </div>
+    <p>I supervise Master's and PhD students at Monash University in Mining Software Repositories, AI4SE and SE4AI. See the <a href="/supervision/">Supervision page</a> for details and prospective-student enquiries.</p>
+  </section> -->
 
   <hr class="section-divider" />
 

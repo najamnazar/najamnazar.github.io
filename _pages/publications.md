@@ -89,8 +89,9 @@ author_profile: true
           <span class="publication-title">Deterministic vs. Probabilistic Summarisation: An Empirical Trade-off Study in Design Pattern Centric Java Code</span>
         </div>
         <p class="publication-authors">N. Nazar and Christoph Treude | 2026</p>
-        <p class="publication-citation"><em>The Empirical Software Engineering International Week 2026 - including the 20th International Symposium on Empirical Software Engineering and Measurement (ESEIW 2026 \& ESEM 2026).</em> </p>
+        <p class="publication-citation"><em>Submitted to a top-tier empirical software engineering venue (target: ESEM 2026).</em></p>
         <div class="publication-links">
+          <a href="https://arxiv.org/abs/2605.21943" target="_blank">Preprint (arXiv)</a>
           <span>Manuscript under review</span>
         </div>
       </article>
@@ -109,6 +110,19 @@ author_profile: true
         <p class="publication-citation"><em>Empirical Software Engineering Journal.</em> SCI/E Indexed | Scopus Q1 | IF 3.6 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s10664-025-10788-x" target="_blank">View publication</a>
+          <a href="https://arxiv.org/abs/2504.11081" target="_blank">Preprint (arXiv)</a>
+          <a href="https://github.com/najamnazar/designpatternsummariser" target="_blank">Code</a>
+          <a href="https://github.com/najamnazar/designpatternsummarisation-nlg-swum-llm" target="_blank">Code (NLG/LLM)</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{nazar2025summarising,
+  author  = {Nazar, N. and Sikka, S. and Treude, C.},
+  title   = {Summarising Design Patterns using Code Features},
+  journal = {Empirical Software Engineering},
+  year    = {2025},
+  doi     = {10.1007/s10664-025-10788-x}
+}</pre>
+          </details>
         </div>
       </article>
     </section>
@@ -126,6 +140,18 @@ author_profile: true
         <p class="publication-citation"><em>International Journal of Software Engineering and Knowledge Engineering.</em> SCI/E Indexed | Scopus Q3 | IF 0.6 (2024)</p>
         <div class="publication-links">
           <a href="https://www.worldscientific.com/doi/10.1142/S0218194023500213" target="_blank">View publication</a>
+          <a href="https://arxiv.org/abs/2106.07513" target="_blank">Preprint (arXiv)</a>
+          <a href="https://github.com/najamnazar/codelabeller" target="_blank">Code</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{nazar2023codelabeller,
+  author  = {Nazar, N. and Chen, N. and Chong, C. Y.},
+  title   = {CodeLabeller: A web-based code annotation tool for Java Design Patterns and Summaries},
+  journal = {International Journal of Software Engineering and Knowledge Engineering},
+  year    = {2023},
+  doi     = {10.1142/S0218194023500213}
+}</pre>
+          </details>
         </div>
       </article>
     </section>
@@ -143,6 +169,19 @@ author_profile: true
         <p class="publication-citation"><em>Journal of Systems and Software.</em> SCI/E Indexed | Scopus Q1 | IF 3.8 (2024)</p>
         <div class="publication-links">
           <a href="https://www.sciencedirect.com/science/article/pii/S0164121221002624" target="_blank">View publication</a>
+          <a href="https://arxiv.org/abs/2012.01708" target="_blank">Preprint (arXiv)</a>
+          <a href="https://github.com/najamnazar/designpatterndetection" target="_blank">Code (Python 2)</a>
+          <a href="https://github.com/najamnazar/designpatterndetection-v2-python3" target="_blank">Code (Python 3)</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{nazar2022feature,
+  author  = {Nazar, N. and Aleti, A. and Zheng, Y.},
+  title   = {Feature-based Software Design Pattern Detection},
+  journal = {Journal of Systems and Software},
+  year    = {2022},
+  url     = {https://www.sciencedirect.com/science/article/pii/S0164121221002624}
+}</pre>
+          </details>
         </div>
       </article>
     </section>
@@ -160,6 +199,19 @@ author_profile: true
         <p class="publication-citation"><em>International Journal of Software Engineering and Knowledge Engineering.</em> SCI/E Indexed | Scopus Q3 | IF 0.6 (2024)</p>
         <div class="publication-links">
           <a href="https://www.worldscientific.com/doi/10.1142/S0218194017500322" target="_blank">View publication</a>
+          <a href="https://csjxzhang.github.io/papers/IJSEKE_17.pdf" target="_blank">PDF</a>
+          <a href="http://oscar-lab.org/paper/prst/file/bugreports.rar" target="_blank">Bug corpus</a>
+          <a href="http://oscar-lab.org/paper/prst/file/annotation.rar" target="_blank">Annotated corpus</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{jiang2017prst,
+  author  = {Jiang, H. and Nazar, N. and Zhang, J. and Zhang, T. and Ren, Z.},
+  title   = {PRST: A pagerank-based summarization technique for summarizing bug reports with duplicates},
+  journal = {International Journal of Software Engineering and Knowledge Engineering},
+  year    = {2017},
+  doi     = {10.1142/S0218194017500322}
+}</pre>
+          </details>
         </div>
       </article>
 
@@ -172,6 +224,16 @@ author_profile: true
         <p class="publication-citation"><em>Science China Information Sciences.</em> SCI/E Indexed | Scopus Q1 | IF 7.3 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11432-014-0372-y" target="_blank">View publication</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{jiang2017mining,
+  author  = {Jiang, H. and Zhang, J. and Ma, H. and Nazar, N. and Ren, Z.},
+  title   = {Mining authorship characteristics in bug repositories},
+  journal = {Science China Information Sciences},
+  year    = {2017},
+  doi     = {10.1007/s11432-014-0372-y}
+}</pre>
+          </details>
         </div>
       </article>
     </section>
@@ -189,6 +251,17 @@ author_profile: true
         <p class="publication-citation"><em>Journal of Computer Science and Technology.</em> SCI/E Indexed | Scopus Q2 | IF 1.2 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11390-016-1671-1" target="_blank">View publication</a>
+          <a href="https://jcst.ict.ac.cn/en/article/pdf/preview/10.1007/s11390-016-1671-1.pdf" target="_blank">PDF (open access)</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{nazar2016summarizing,
+  author  = {Nazar, N. and Hu, Y. and Jiang, H.},
+  title   = {Summarizing software artifacts: A literature review},
+  journal = {Journal of Computer Science and Technology},
+  year    = {2016},
+  doi     = {10.1007/s11390-016-1671-1}
+}</pre>
+          </details>
         </div>
       </article>
 
@@ -201,6 +274,20 @@ author_profile: true
         <p class="publication-citation"><em>Frontiers of Computer Science.</em> SCI/E Indexed | Scopus Q2 | IF 2.0 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11704-015-4409-2" target="_blank">View publication</a>
+          <a href="http://www.oscar-lab.org/paper/FCS_15.pdf" target="_blank">PDF</a>
+          <a href="http://oscar-lab.org/CFS/codeFragments.txt" target="_blank">Corpus</a>
+          <a href="http://oscar-lab.org/CFS/features.txt" target="_blank">Features</a>
+          <a href="http://oscar-lab.org/CFS/dataset.zip" target="_blank">Classifiers</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{nazar2016source,
+  author  = {Nazar, N. and Jiang, H. and Gao, G. and Zhang, T. and Li, X. and Ren, Z.},
+  title   = {Source code fragment summarization with small-scale crowdsourcing based features},
+  journal = {Frontiers of Computer Science},
+  year    = {2016},
+  doi     = {10.1007/s11704-015-4409-2}
+}</pre>
+          </details>
         </div>
       </article>
 
@@ -213,6 +300,16 @@ author_profile: true
         <p class="publication-citation"><em>International Journal of Computer Theory and Engineering.</em> EI Indexed</p>
         <div class="publication-links">
           <a href="http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=79&id=1276" target="_blank">View publication</a>
+          <a href="https://www.ijcte.org/vol8/1064-G1500.pdf" target="_blank">PDF</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@article{nazar2016analysis,
+  author  = {Nazar, N. and Rakotomahefa, T. M. J.},
+  title   = {Analysis of a Small Company for Software Product Line Adoption--An Industrial Case Study},
+  journal = {International Journal of Computer Theory and Engineering},
+  year    = {2016}
+}</pre>
+          </details>
         </div>
       </article>
     </section>

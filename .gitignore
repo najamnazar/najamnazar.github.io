@@ -15,3 +15,19 @@ package-lock.json
 
 # ignore .github directory
 .github/
+
+# Claude Code / AI assistant local state (agent config, session memory, scratch files)
+.claude/
+
+# Ruby / Bundler / Jekyll build artifacts
+.bundle/
+vendor/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Editor / OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

@@ -13,8 +13,16 @@ redirect_from:
 
 <div class="about-page">
   <section class="about-hero">
-    <p>I am a passionate educator and researcher specialising in Software Engineering, Data Science and Artificial Intelligence with over <strong>9 years of blended teaching and research experience</strong> across Australia, Europe and Asia. I currently hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master’s and PhD students and lead research in <strong>Mining Software Repositories (MSR) </strong> and <strong>AI4SE</strong>.</p>
+    <!-- OLD HERO TEXT (commented out — replaced with sharper, evidence-led version below)
+    <p>I am a researcher and educator specialising in Software Engineering, Data Science and Artificial Intelligence with over <strong>9 years of blended teaching and research experience</strong> across Australia, Europe and Asia. I currently hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master's and PhD students and lead research in <strong>Mining Software Repositories (MSR) </strong> and <strong>AI4SE</strong>.</p>
     <p>Previously, I served as a <strong>Lecturer (Education Specialist)</strong> at the <a href="https://set.adelaide.edu.au/computer-and-mathematical-sciences/" target="_blank">University of Adelaide</a> where I reviewed and refreshed curriculum across Software Engineering, Data Science, and Cybersecurity disciplines. Even earlier, I worked for the University of Melbourne as an Education Specialist.</p>
+    <p><strong>I am currently seeking a continuing Lecturer / Senior Lecturer position in Software Engineering.</strong></p>
+    -->
+
+    <p>Large software systems carry design knowledge that is almost never written down. My research recovers it automatically using MSR, NLP, AI4SE or combination of these. This work has produced three open-source tools (<a href="https://github.com/najamnazar/designpatterndetection-v2-python3" target="_blank">DPD</a>, <a href="https://github.com/najamnazar/codelabeller" target="_blank">CodeLabeller</a> and <a href="https://github.com/najamnazar/designpatternsummariser" target="_blank">DPS</a>) and published in Q1 venues including the Journal of Systems and Software and Empirical Software Engineering. I serve on the program committees of ICSE 2026, 2027, ICSME 2026 and APSEC 2026.</p>
+    <p>I have been teaching since 2017 in different capacities across universities in Australia, covering units in software engineering, programming, AI and cybersecurity. At the University of Adelaide I led the review and refresh of more than 25 units in Software Engineering, Data Science and Cybersecurity disciplines, aligned to ACS and TEQSA accreditation requirements. Earlier I held teaching specialist positions at the University of Melbourne.</p>
+    <p>I hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master's and PhD students, and teach occasionally. I completed my PhD at Dalian University of Technology in 2016 under <a href="http://faculty.dlut.edu.cn/jianghe/en/index.htm" target="_blank">Prof. He Jiang</a>, and hold an MSc from Chalmers University of Technology.</p>
+    <p><strong>I am currently seeking a continuing Lecturer / Senior Lecturer position in Software Engineering.</strong></p>
 
     <div class="hero-stats">
       <div class="hero-stat">
@@ -26,6 +34,40 @@ redirect_from:
         <span class="value">Cert IV Training &amp; Assessment</span>
       </div>
     </div>
+  </section>
+
+  <hr class="section-divider" />
+
+  <section>
+    <div class="section-header">
+      <h2>Current (2026)</h2>
+    </div>
+    <div class="experience-grid">
+      <article class="experience-card">
+        <h4>Adjunct Senior Lecturer</h4>
+        <p class="timeline-meta">Department of Software Systems &amp; Cyber Security, Faculty of IT, Monash University · 2026–present</p>
+        <ul>
+          <li>Teaching FIT5136 (Software Engineering, 2026 S1) and FIT5238 (IT Systems Capstone Project, 2026 T3).</li>
+          <li>Supervising Master's and PhD students; leading research in AI4SE and MSR.</li>
+        </ul>
+      </article>
+    </div>
+  </section>
+
+  <hr class="section-divider" />
+
+  <section>
+    <div class="section-header">
+      <h2>News &amp; updates</h2>
+    </div>
+    <ul class="news-list">
+      <li><span class="news-date">Apr 2026</span> — Presented journal-first talk on design pattern summarisation at <strong>ICPC 2026</strong>, Rio de Janeiro.</li>
+      <li><span class="news-date">2026</span> — Co-Investigator on the <strong>VulGuard-Agent</strong> grant application (Amazon-funded), submitted and under review. See <a href="/grants/">Grants &amp; Funding</a>.</li>
+      <li><span class="news-date">2026</span> — Program committee member for <strong>ICSE 2027</strong> (SEIS track), <strong>ICSE 2026</strong> (Artifact Evaluation track), <strong>ICSME 2026</strong> (Industry track) and <strong>APSEC 2026</strong> (SE in Practice track).</li>
+      <li><span class="news-date">2025</span> — <em>Summarising Design Patterns using Code Features</em> published in <strong>Empirical Software Engineering</strong> journal.</li>
+      <li><span class="news-date">2025</span> — Awarded a three-year Monash internal research grant (2025–2028).</li>
+      <li><span class="news-date">2024</span> — Awarded the Melbourne University <strong>Research Impetus Grant</strong>.</li>
+    </ul>
   </section>
 
   <!-- <section class="about-areas">

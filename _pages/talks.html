@@ -14,7 +14,9 @@ author_profile: true
 {% if talk_count > 0 %}
   {% assign first_talk = talks_sorted | first %}
   {% assign latest_talk = talks_sorted | last %}
-  {% assign talk_span = first_talk.date | date: '%Y' | append: '–' | append: latest_talk.date | date: '%Y' %}
+  {% assign first_year = first_talk.date | date: '%Y' %}
+  {% assign latest_year = latest_talk.date | date: '%Y' %}
+  {% assign talk_span = first_year | append: '–' | append: latest_year %}
 {% else %}
   {% assign talk_span = '—' %}
 {% endif %}
@@ -79,7 +81,7 @@ author_profile: true
     <header class="feed-header">
       <div>
         <h2>Talk archive</h2>
-        <p>Select any entry to read the abstract, download slides, or watch a recording (if any).</p>
+        <p>Select any entry to read the abstract. Slides and recordings will be linked here as they become available.</p>
       </div>
       <div class="feed-meta">
         <span>{{ talk_count }} total</span>
