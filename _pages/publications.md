@@ -16,11 +16,11 @@ author_profile: true
     <div class="stats-grid">
       <div class="stat-card">
         <span class="stat-label">Citations</span>
-        <span class="stat-value">375</span>
+        <span class="stat-value">380</span>
       </div>
       <div class="stat-card">
         <span class="stat-label">h-index</span>
-        <span class="stat-value">7</span>
+        <span class="stat-value">8</span>
       </div>
       <div class="stat-card">
         <span class="stat-label">i10-index</span>
