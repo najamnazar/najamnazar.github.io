@@ -89,7 +89,7 @@ author_profile: true
           <span class="publication-title">Deterministic vs. Probabilistic Summarisation: An Empirical Trade-off Study in Design Pattern Centric Java Code</span>
         </div>
         <p class="publication-authors">N. Nazar and Christoph Treude | 2026</p>
-        <p class="publication-citation"><em>Submitted to a top-tier empirical software engineering venue (target: ESEM 2026).</em></p>
+        <p class="publication-citation"><em>Submitted to a top-tier empirical software engineering venue.</em></p>
         <div class="publication-links">
           <a href="https://arxiv.org/abs/2605.21943" target="_blank">Preprint (arXiv)</a>
           <span>Manuscript under review</span>
@@ -271,7 +271,7 @@ author_profile: true
           <a href="https://link.springer.com/article/10.1007/s11704-015-4409-2" target="_blank" class="publication-title">Source code fragment summarization with small-scale crowdsourcing based features</a>
         </div>
         <p class="publication-authors">N. Nazar, H. Jiang, G. Gao, T. Zhang, X. Li, Z. Ren | 2016</p>
-        <p class="publication-citation"><em>Frontiers of Computer Science.</em> SCI/E Indexed | Scopus Q2 | IF 2.0 (2024)</p>
+        <p class="publication-citation"><em>Frontiers of Computer Science.</em> SCI/E Indexed | Scopus Q1 | IF 2.0 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11704-015-4409-2" target="_blank">View publication</a>
           <a href="http://www.oscar-lab.org/paper/FCS_15.pdf" target="_blank">PDF</a>
@@ -297,7 +297,7 @@ author_profile: true
           <a href="http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=79&id=1276" target="_blank" class="publication-title">Analysis of a Small Company for Software Product Line Adoption--An Industrial Case Study</a>
         </div>
         <p class="publication-authors">N. Nazar, T. M. J. Rakotomahefa | 2016</p>
-        <p class="publication-citation"><em>International Journal of Computer Theory and Engineering.</em> EI Indexed</p>
+        <p class="publication-citation"><em>International Journal of Computer Theory and Engineering.</em> EI Indexed | Scopus Q4</p>
         <div class="publication-links">
           <a href="http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=79&id=1276" target="_blank">View publication</a>
           <a href="https://www.ijcte.org/vol8/1064-G1500.pdf" target="_blank">PDF</a>
