@@ -40,7 +40,7 @@ redirect_from:
 
   <section>
     <div class="section-header">
-      <h2> (2025)</h2>
+      <h2> Current (2025)</h2>
     </div>
     <div class="experience-grid">
       <article class="experience-card">
