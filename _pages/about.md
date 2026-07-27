@@ -19,7 +19,7 @@ redirect_from:
     <p><strong>I am currently seeking a continuing Lecturer / Senior Lecturer position in Software Engineering.</strong></p>
     -->
 
-    <p>Large software systems carry design knowledge that is almost never written down. My research recovers it automatically using MSR, NLP, AI4SE or combination of these. This work has produced three open-source tools (<a href="https://github.com/najamnazar/designpatterndetection-v2-python3" target="_blank">DPD</a>, <a href="https://github.com/najamnazar/codelabeller" target="_blank">CodeLabeller</a> and <a href="https://github.com/najamnazar/designpatternsummariser" target="_blank">DPS</a>) and published in Q1 venues including the Journal of Systems and Software and Empirical Software Engineering. I serve on the program committees of ICSE 2026, 2027, ICSME 2026 and APSEC 2026.</p>
+    <p>Large software systems carry design knowledge that is almost never written down. My research recovers it automatically using MSR, NLP, AI4SE or combination of these. This work has produced three open-source tools (<a href="https://github.com/najamnazar/designpatterndetection-v2-python3" target="_blank">DPD</a>, <a href="https://github.com/najamnazar/codelabeller" target="_blank">CodeLabeller</a> and <a href="https://github.com/najamnazar/designpatternsummariser" target="_blank">DPS</a>) and published in Q1 journals including the Journal of Systems and Software and Empirical Software Engineering. I serve on the program committees of ICSE 2026, 2027, ICSME 2026 and APSEC 2026.</p>
     <p>I have been teaching since 2017 in different capacities across universities in Australia, covering units in software engineering, programming, AI and cybersecurity. At the University of Adelaide I led the review and refresh of more than 25 units in Software Engineering, Data Science and Cybersecurity disciplines, aligned to ACS and TEQSA accreditation requirements. Earlier I held teaching specialist positions at the University of Melbourne.</p>
     <p>I hold an adjunct affiliation with the <a href="https://www.monash.edu/it/ssc" target="_blank">Department of Software Systems and Cyber Security</a>, Faculty of Information Technology, Monash University, where I supervise Master's and PhD students, and teach occasionally. I completed my PhD at Dalian University of Technology in 2016 under <a href="http://faculty.dlut.edu.cn/jianghe/en/index.htm" target="_blank">Prof. He Jiang</a>, and hold an MSc from Chalmers University of Technology.</p>
     <p><strong>I am currently seeking a continuing Lecturer / Senior Lecturer position in Software Engineering.</strong></p>
@@ -40,14 +40,14 @@ redirect_from:
 
   <section>
     <div class="section-header">
-      <h2>Current (2026)</h2>
+      <h2> (2025)</h2>
     </div>
     <div class="experience-grid">
       <article class="experience-card">
         <h4>Adjunct Senior Lecturer</h4>
         <p class="timeline-meta">Department of Software Systems &amp; Cyber Security, Faculty of IT, Monash University · 2026–present</p>
         <ul>
-          <li>Teaching FIT5136 (Software Engineering, 2026 S1) and FIT5238 (IT Systems Capstone Project, 2026 T3).</li>
+          <li>Teaching FIT5136 (Software Engineering, 2026 S1) and FIT5238 (IT Systems Capstone Project, 2025, 2026 T3).</li>
           <li>Supervising Master's and PhD students; leading research in AI4SE and MSR.</li>
         </ul>
       </article>
@@ -61,7 +61,7 @@ redirect_from:
       <h2>News &amp; updates</h2>
     </div>
     <ul class="news-list">
-      <li><span class="news-date">Apr 2026</span> — Presented journal-first talk on design pattern summarisation at <strong>ICPC 2026</strong>, Rio de Janeiro.</li>
+      <li><span class="news-date">Apr 2026</span> — Presented journal first talk on design pattern summarisation at <strong>ICPC 2026</strong>, Rio de Janeiro.</li>
       <li><span class="news-date">2026</span> — Co-Investigator on the <strong>VulGuard-Agent</strong> grant application (Amazon-funded), submitted and under review. See <a href="/grants/">Grants &amp; Funding</a>.</li>
       <li><span class="news-date">2026</span> — Program committee member for <strong>ICSE 2027</strong> (SEIS track), <strong>ICSE 2026</strong> (Artifact Evaluation track), <strong>ICSME 2026</strong> (Industry track) and <strong>APSEC 2026</strong> (SE in Practice track).</li>
       <li><span class="news-date">2025</span> — <em>Summarising Design Patterns using Code Features</em> published in <strong>Empirical Software Engineering</strong> journal.</li>
