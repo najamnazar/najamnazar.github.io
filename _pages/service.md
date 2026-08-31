@@ -37,8 +37,11 @@ author_profile: true
     
     <h3>Program Committee Member</h3>
     <ul class="service-list">
-    <li class="service-item">
+      <li class="service-item">
         <strong>ICSE 2027</strong> - <a href="https://conf.researchr.org/track/icse-2027/icse-2027-seis" target="_blank">Software Engineering in Society (SEIS) Track</a>
+      </li>
+      <li class="service-item">
+        <strong>FSE 2027</strong> - <a href="https://conf.researchr.org/track/fse-2027/fse-2027-industry-papers" target="_blank">Industry Papers</a>
       </li>
       <li class="service-item">
         <strong>ICSE 2026</strong> - <a href="https://conf.researchr.org/track/icse-2026/icse-2026-artifact-evaluation" target="_blank">Artifact Evaluation Track</a>

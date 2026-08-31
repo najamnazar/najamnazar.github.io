@@ -88,13 +88,24 @@ author_profile: true
           <span class="publication-pill is-inreview">In Review</span>
           <span class="publication-title">Deterministic vs. Probabilistic Summarisation: An Empirical Trade-off Study in Design Pattern Centric Java Code</span>
         </div>
-        <p class="publication-authors">N. Nazar and Christoph Treude | 2026</p>
+        <p class="publication-authors"><strong>N. Nazar</strong> and C. Treude | 2026</p>
         <p class="publication-citation"><em>Submitted to a top-tier empirical software engineering venue.</em></p>
         <div class="publication-links">
           <a href="https://arxiv.org/abs/2605.21943" target="_blank">Preprint (arXiv)</a>
           <span>Manuscript under review</span>
         </div>
       </article>
+        <article class="publication-item" data-year="2026" data-status="in-review" data-type="journal">
+          <div class="publication-title-line">
+            <span class="publication-pill is-inreview">In Review</span>
+            <span class="publication-title">Comparative Analysis of Iterative Prompt Refinement and Quality of LLM-Generated Code: Human Evaluation Still Essential</span>
+          </div>
+          <p class="publication-authors">S. Phisetpakasit, O.P. Omondiagbe, S.A. Licorish, T. Savarimuthu & <strong>N. Nazar</strong> | 2026</p>
+          <p class="publication-citation"><em>Journal of Systems and Software.</em></p>
+          <div class="publication-links">
+            <span>Manuscript under review</span>
+          </div>
+        </article>
     </section>
 
     <section class="publication-year-section" data-year="2025">
@@ -106,7 +117,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://link.springer.com/article/10.1007/s10664-025-10788-x" target="_blank" class="publication-title">Summarising Design Patterns using Code Features</a>
         </div>
-        <p class="publication-authors">N. Nazar, S. Sikka, C. Treude | 2025</p>
+        <p class="publication-authors"><strong>N. Nazar</strong>, S. Sikka, C. Treude | 2025</p>
         <p class="publication-citation"><em>Empirical Software Engineering Journal.</em> SCI/E Indexed | Scopus Q1 | IF 3.6 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s10664-025-10788-x" target="_blank">View publication</a>
@@ -136,7 +147,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://www.worldscientific.com/doi/10.1142/S0218194023500213" target="_blank" class="publication-title">CodeLabeller: A web-based code annotation tool for Java Design Patterns and Summaries</a>
         </div>
-        <p class="publication-authors">N. Nazar, N. Chen, C. Y. Chong | 2023</p>
+        <p class="publication-authors"><strong>N. Nazar</strong>, N. Chen, C. Y. Chong | 2023</p>
         <p class="publication-citation"><em>International Journal of Software Engineering and Knowledge Engineering.</em> SCI/E Indexed | Scopus Q3 | IF 0.6 (2024)</p>
         <div class="publication-links">
           <a href="https://www.worldscientific.com/doi/10.1142/S0218194023500213" target="_blank">View publication</a>
@@ -165,7 +176,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://www.sciencedirect.com/science/article/pii/S0164121221002624" target="_blank" class="publication-title">Feature-based Software Design Pattern Detection</a>
         </div>
-        <p class="publication-authors">N. Nazar, A. Aleti, Y. Zheng | 2022</p>
+        <p class="publication-authors"><strong>N. Nazar</strong>, A. Aleti, Y. Zheng | 2022</p>
         <p class="publication-citation"><em>Journal of Systems and Software.</em> SCI/E Indexed | Scopus Q1 | IF 3.8 (2024)</p>
         <div class="publication-links">
           <a href="https://www.sciencedirect.com/science/article/pii/S0164121221002624" target="_blank">View publication</a>
@@ -195,7 +206,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://www.worldscientific.com/doi/10.1142/S0218194017500322" target="_blank" class="publication-title">PRST: A pagerank-based summarization technique for summarizing bug reports with duplicates</a>
         </div>
-        <p class="publication-authors">H. Jiang, N. Nazar, J. Zhang, T. Zhang, Z. Ren | 2017</p>
+        <p class="publication-authors">H. Jiang, <strong>N. Nazar</strong>, J. Zhang, T. Zhang, Z. Ren | 2017</p>
         <p class="publication-citation"><em>International Journal of Software Engineering and Knowledge Engineering.</em> SCI/E Indexed | Scopus Q3 | IF 0.6 (2024)</p>
         <div class="publication-links">
           <a href="https://www.worldscientific.com/doi/10.1142/S0218194017500322" target="_blank">View publication</a>
@@ -220,7 +231,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://link.springer.com/article/10.1007/s11432-014-0372-y" target="_blank" class="publication-title">Mining authorship characteristics in bug repositories</a>
         </div>
-        <p class="publication-authors">H. Jiang, J. Zhang, H. Ma, N. Nazar, Z. Ren | 2017</p>
+        <p class="publication-authors">H. Jiang, J. Zhang, H. Ma, <strong>N. Nazar</strong>, Z. Ren | 2017</p>
         <p class="publication-citation"><em>Science China Information Sciences.</em> SCI/E Indexed | Scopus Q1 | IF 7.3 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11432-014-0372-y" target="_blank">View publication</a>
@@ -247,7 +258,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://link.springer.com/article/10.1007/s11390-016-1671-1" target="_blank" class="publication-title">Summarizing software artifacts: A literature review</a>
         </div>
-        <p class="publication-authors">N. Nazar, Y. Hu, H. Jiang | 2016</p>
+        <p class="publication-authors"><strong>N. Nazar</strong>, Y. Hu, H. Jiang | 2016</p>
         <p class="publication-citation"><em>Journal of Computer Science and Technology.</em> SCI/E Indexed | Scopus Q2 | IF 1.2 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11390-016-1671-1" target="_blank">View publication</a>
@@ -270,7 +281,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="https://link.springer.com/article/10.1007/s11704-015-4409-2" target="_blank" class="publication-title">Source code fragment summarization with small-scale crowdsourcing based features</a>
         </div>
-        <p class="publication-authors">N. Nazar, H. Jiang, G. Gao, T. Zhang, X. Li, Z. Ren | 2016</p>
+        <p class="publication-authors"><strong>N. Nazar</strong>, H. Jiang, G. Gao, T. Zhang, X. Li, Z. Ren | 2016</p>
         <p class="publication-citation"><em>Frontiers of Computer Science.</em> SCI/E Indexed | Scopus Q1 | IF 2.0 (2024)</p>
         <div class="publication-links">
           <a href="https://link.springer.com/article/10.1007/s11704-015-4409-2" target="_blank">View publication</a>
@@ -296,7 +307,7 @@ author_profile: true
           <span class="publication-pill is-published">Published</span>
           <a href="http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=79&id=1276" target="_blank" class="publication-title">Analysis of a Small Company for Software Product Line Adoption--An Industrial Case Study</a>
         </div>
-        <p class="publication-authors">N. Nazar, T. M. J. Rakotomahefa | 2016</p>
+        <p class="publication-authors"><strong>N. Nazar</strong>, T. M. J. Rakotomahefa | 2016</p>
         <p class="publication-citation"><em>International Journal of Computer Theory and Engineering.</em> EI Indexed | Scopus Q4</p>
         <div class="publication-links">
           <a href="http://www.ijcte.org/index.php?m=content&c=index&a=show&catid=79&id=1276" target="_blank">View publication</a>
