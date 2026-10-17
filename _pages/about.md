@@ -61,12 +61,12 @@ redirect_from:
       <h2>News &amp; updates</h2>
     </div>
     <ul class="news-list">
+      <li><span class="news-date">Oct 2026</span> — Presented <em>Software Product Line Engineering: Adoption, Tooling and AI Era Challenges</em> at <strong>AICT 2026</strong>, Baku, Azerbaijan.</li>
       <li><span class="news-date">Apr 2026</span> — Presented journal first talk on design pattern summarisation at <strong>ICPC 2026</strong>, Rio de Janeiro.</li>
-      <li><span class="news-date">2026</span> — Co-Investigator on the <strong>VulGuard-Agent</strong> grant application (Amazon-funded), submitted and under review. See <a href="/grants/">Grants &amp; Funding</a>.</li>
       <li><span class="news-date">2026</span> — Program committee member for <strong>ICSE 2027</strong> (SEIS track), <strong>FSE 2027</strong> (Industry Papers track), <strong>ICSE 2026</strong> (Artifact Evaluation track), <strong>ICSME 2026</strong> (Industry track) and <strong>APSEC 2026</strong> (SE in Practice track).</li>
       <li><span class="news-date">2025</span> — <em>Summarising Design Patterns using Code Features</em> published in <strong>Empirical Software Engineering</strong> journal.</li>
-      <li><span class="news-date">2025</span> — Awarded a three-year Monash internal research grant (2025–2028).</li>
-      <li><span class="news-date">2024</span> — Awarded the Melbourne University <strong>Research Impetus Grant</strong>.</li>
+      <li><span class="news-date">2025</span> — Awarded a three year Monash internal research grant (2025–2028) worth AUD 45,000.</li>
+      <li><span class="news-date">2024</span> — Awarded the Melbourne University <strong>Research Impetus Grant</strong> worth AUD 19,000.</li>
     </ul>
   </section>
 

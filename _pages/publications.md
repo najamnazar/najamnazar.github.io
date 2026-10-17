@@ -16,7 +16,7 @@ author_profile: true
     <div class="stats-grid">
       <div class="stat-card">
         <span class="stat-label">Citations</span>
-        <span class="stat-value">380</span>
+        <span class="stat-value">384</span>
       </div>
       <div class="stat-card">
         <span class="stat-label">h-index</span>
@@ -83,6 +83,28 @@ author_profile: true
       <div class="year-header">
         <h2>2026</h2>
       </div>
+      <article class="publication-item" data-year="2026" data-status="published" data-type="conference">
+        <div class="publication-title-line">
+          <span class="publication-pill is-published">Published</span>
+          <span class="publication-title">Software Product Line Engineering: Adoption, Tooling and AI Era Challenges</span>
+        </div>
+        <p class="publication-authors"><strong>N. Nazar</strong> | 2026</p>
+        <p class="publication-citation"><em>20th IEEE International Conference on Application of Information and Communication Technologies (AICT 2026), Baku, Azerbaijan.</em></p>
+        <div class="publication-links">
+          <a href="https://www.aict.info/?csc=2026" target="_blank">Conference</a>
+          <a href="https://arxiv.org/abs/2605.21353" target="_blank">Preprint (arXiv)</a>
+          <details class="publication-bibtex">
+            <summary>BibTeX</summary>
+            <pre>@inproceedings{nazar2026splead,
+  author    = {Nazar, N.},
+  title     = {Software Product Line Engineering: Adoption, Tooling and AI Era Challenges},
+  booktitle = {Proceedings of the 20th IEEE International Conference on Application of Information and Communication Technologies (AICT 2026)},
+  year      = {2026},
+  address   = {Baku, Azerbaijan}
+}</pre>
+          </details>
+        </div>
+      </article>
       <article class="publication-item" data-year="2026" data-status="in-review" data-type="conference">
         <div class="publication-title-line">
           <span class="publication-pill is-inreview">In Review</span>
